@@ -1,5 +1,5 @@
 # Packet Analysis
- 
+
 Packet analysis is the process of capturing and inspecting the raw data packets traveling across a network to understand exactly what is happening at a detailed level. By examining individual packets, network engineers can diagnose connectivity issues, identify security threats, verify that protocols are behaving correctly, and understand the root cause of performance problems. Tools like Wireshark and tcpdump are the primary instruments used for packet analysis, allowing engineers to filter, decode, and interpret traffic at every layer of the OSI model.
 
 Visit the following resources to learn more:

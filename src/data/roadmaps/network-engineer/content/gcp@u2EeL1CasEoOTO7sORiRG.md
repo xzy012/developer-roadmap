@@ -1,5 +1,5 @@
 # GCP
- 
+
 Google Cloud Platform (GCP) takes a unique approach to networking with its globally distributed Virtual Private Cloud (VPC), which, unlike AWS and Azure, operates as a single global resource rather than being tied to a specific region. Key networking services include Cloud Router for dynamic routing between on-premises and GCP networks using BGP, Cloud VPN and Cloud Interconnect for hybrid connectivity, Cloud Load Balancing for distributing traffic globally across regions, Firewall Rules for controlling traffic at the network level, and Cloud DNS for scalable domain name resolution. GCP's network is built on the same private global fiber infrastructure that powers Google's own services, giving it a performance advantage for traffic that can be routed through Google's backbone rather than the public Internet.
 
 Visit the following resources to learn more:

@@ -1,5 +1,5 @@
 # Cloud Networking Basics
- 
+
 Cloud networking refers to the networking infrastructure and services delivered through cloud platforms, allowing organizations to build, connect, and secure their resources in the cloud using virtual equivalents of traditional network components. Instead of physical routers, switches, and firewalls, cloud networking uses software-defined resources that can be provisioned, configured, and scaled through APIs and web consoles. Understanding cloud networking is increasingly essential for network engineers as more infrastructure moves away from on-premises data centers and into cloud environments.
 
 Visit the following resources to learn more:
