@@ -5,6 +5,7 @@ The Model Context Protocol (MCP) is an open-source standard that enables a Claud
 Visit the following resources to learn more:
 
 - [@course@Introduction to Model Context Protocol](https://anthropic.skilljar.com/introduction-to-model-context-protocol)
+- [@course@Model Context Protocol: Advanced Topics](https://anthropic.skilljar.com/model-context-protocol-advanced-topics)
 - [@official@Connect Claude Code to tools via MCP - Claude Code Docs](https://code.claude.com/docs/en/mcp)
 - [@article@What is the Model Context Protocol (MCP)?](https://modelcontextprotocol.io/docs/getting-started/intro)
 - [@video@Claude Code Tutorial #7 - MCP Servers](https://www.youtube.com/watch?v=X7lgIa6guKg)

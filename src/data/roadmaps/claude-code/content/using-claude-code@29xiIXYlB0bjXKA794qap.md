@@ -4,6 +4,7 @@ Claude Code is a sophisticated agentic tool that provides significant power thro
 
 Visit the following resources to learn more:
 
+- [@course@AI Capabilities and Limitations](https://anthropic.skilljar.com/ai-capabilities-and-limitations)
 - [@official@Best Practices for Claude Code - Claude Code Docs](https://code.claude.com/docs/en/best-practices)
 - [@official@Prompting best practices - Claude API Docs](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices)
 - [@article@Vibe coding tutorial: Build your first app with Claude Code](https://roadmap.sh/vibe-coding/tutorial)

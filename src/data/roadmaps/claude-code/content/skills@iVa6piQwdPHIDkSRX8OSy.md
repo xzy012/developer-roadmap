@@ -4,6 +4,7 @@ Claude Code skills are modular packages of instructions, scripts, and assets tha
 
 Visit the following resources to learn more:
 
+- [@course@Introduction to agent skills](https://anthropic.skilljar.com/introduction-to-agent-skills)
 - [@course@Agent Skills with Anthropic](https://www.deeplearning.ai/short-courses/agent-skills-with-anthropic/)
 - [@official@Extend Claude with skills](https://code.claude.com/docs/en/skills)
 - [@official@The Complete Guide to Building Skills for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en)

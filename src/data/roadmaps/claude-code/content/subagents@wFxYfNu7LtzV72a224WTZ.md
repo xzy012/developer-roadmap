@@ -4,6 +4,7 @@ Subagents are specialized AI assistants that function as independent "team membe
 
 Visit the following resources to learn more:
 
+- [@course@Introduction to subagents](https://anthropic.skilljar.com/introduction-to-subagents)
 - [@official@Create custom subagents - Claude Code Docs](https://code.claude.com/docs/en/sub-agents)
 - [@video@Stop Using Claude Code Like This (Use Sub-Agents Instead) -](https://www.youtube.com/watch?v=P60LqQg1RH8)
 - [@video@Claude Code NEW Sub Agents in 7 Minutes](https://www.youtube.com/watch?v=DNGxMX7ym44)
