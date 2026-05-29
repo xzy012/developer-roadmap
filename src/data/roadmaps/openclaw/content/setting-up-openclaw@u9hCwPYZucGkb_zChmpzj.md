@@ -6,6 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@Getting Started](https://docs.openclaw.ai/start/getting-started)
 - [@official@Onboarding Overview](https://docs.openclaw.ai/start/onboarding-overview)
-- [@article@The ULTIMATE OpenClaw Setup Guide! 🦞](https://www.reddit.com/r/AiForSmallBusiness/comments/1r4uyrh/the_ultimate_openclaw_setup_guide/)
+- [@article@How to Install OpenClaw: A Complete Setup Guide](https://roadmap.sh/openclaw/installation-guide)
 - [@video@OpenClaw Full Tutorial for Beginners – How to Set Up and Use OpenClaw (ClawdBot / MoltBot)](https://www.youtube.com/watch?v=n1sfrc-RjyM)
-- [@video@OpenClaw Full Tutorial for Beginners: How to Setup Your First AI Agent (ClawdBot)](https://www.youtube.com/watch?v=BoC5MY_7aDk)

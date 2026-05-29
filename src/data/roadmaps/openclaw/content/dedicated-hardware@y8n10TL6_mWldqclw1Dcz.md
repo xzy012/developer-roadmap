@@ -4,4 +4,5 @@ Running Open Claw on dedicated hardware means using a physical device like a Ras
 
 Visit the following resources to learn more:
 
+- [@article@How to Install OpenClaw: A Complete Setup Guide](https://roadmap.sh/openclaw/installation-guide)
 - [@article@OpenClaw: The complete guide to building, training, and living with your personal AI agent](https://www.lennysnewsletter.com/p/openclaw-the-complete-guide-to-building?hide_intro_popup=true)
