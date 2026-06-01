@@ -1,3 +1,3 @@
 # Communication
  
-Clear communication is one of the most important skills in a customer-facing engineering role. It involves explaining technical concepts to non-technical audiences, writing clearly in documentation and updates, facilitating meetings effectively, and adapting the level of detail to the context and audience.
+If you cannot explain what AI can and cannot do to a non-technical VP, you cannot be an FDE. Communication in this role is about translating between two different worlds: the technical reality of what you are building and the business reality of what the customer needs to justify the investment. That means being able to speak about token costs and latency in the same conversation where you are explaining ROI to an executive. It also means knowing when to say AI is not the right answer.

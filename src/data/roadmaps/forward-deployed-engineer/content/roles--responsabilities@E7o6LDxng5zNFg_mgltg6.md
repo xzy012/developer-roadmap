@@ -1,3 +1,7 @@
 # Roles & Responsibilities
  
-An FDE handles a wide range of tasks across the software lifecycle, from discovery and scoping to building and shipping working software inside customer environments. They often act as the technical lead on engagements, translating business requirements into real systems while communicating tradeoffs to non-technical stakeholders. Unlike a traditional software engineer, the role blends customer-facing work with hands-on building.
+The FDE job has three phases: audit, evals, and deployment. In the audit phase, you embed with different teams inside the customer's organization, map their workflows, identify bottlenecks, and decide where AI can create real value and where it cannot. In the evals phase, you build systems to measure whether the AI is actually working, not just whether it produces an answer, but whether it reasons through problems the way a skilled human would. In the deployment phase, you ship the system into production, starting with the smallest possible unit of autonomy and layering on capabilities only after each step is proven to work.
+
+Visit the following resources to learn more:
+
+- [@article@Forward-deployed engineer: The complete guide](https://www.rocketlane.com/blogs/forward-deployed-engineer)
