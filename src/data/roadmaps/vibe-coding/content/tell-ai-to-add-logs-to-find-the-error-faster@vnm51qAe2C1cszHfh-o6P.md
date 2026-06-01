@@ -1,7 +1,6 @@
 # Tell AI to add logs
 
-Articles
-========
+Keep track of the mistakes AI keeps repeating and include them in your prompts. Telling AI what to avoid is just as important as telling it what to do. A simple line like "do not add placeholder data" can prevent a lot of unnecessary back and forth.
 
 Visit the following resources to learn more:
 

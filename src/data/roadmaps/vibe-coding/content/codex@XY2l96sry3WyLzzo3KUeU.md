@@ -1,8 +1,9 @@
-# Codex
+# ChatGPT
 
-Codex is an AI model developed by OpenAI that translates natural language instructions into functional code. It acts as the engine behind many modern programming assistants, allowing developers to describe what they want to build in plain English and receiving the corresponding code snippets in return.
+ChatGPT is a large language model chatbot developed by OpenAI. You can give it a prompt, and it'll generate text that attempts to answer or continue the conversation. Think of it as a super-smart auto-complete that can understand context and hold a conversation. It's been used for things like writing code, answering questions, and even creative writing.
 
 Visit the following resources to learn more:
 
-- [@official@Codex Docs](https://developers.openai.com/codex)
-- [@video@Codex Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iDBeA8IyR1IE1kl4w5IDEG)
+- [@official@ChatGPT](https://chatgpt.com/)
+- [@official@ChatGPT Overview](https://chatgpt.com/overview)
+- [@video@ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners](https://www.youtube.com/watch?v=JTxsNm9IdYU)

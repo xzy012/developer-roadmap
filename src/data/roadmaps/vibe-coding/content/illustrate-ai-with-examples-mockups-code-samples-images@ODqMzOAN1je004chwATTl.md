@@ -1,7 +1,6 @@
 # Illustrate AI with Examples
 
-Articles
-========
+Always give AI something to look at, not just something to read. Paste in existing files, attach screenshots, or link to references. The more relevant material you provide, the less it has to guess and the better the output will be.
 
 Visit the following resources to learn more:
 

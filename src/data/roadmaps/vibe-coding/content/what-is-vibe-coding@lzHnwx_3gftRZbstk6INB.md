@@ -4,6 +4,6 @@
 
 Visit the following resources to learn more:
 
-- [@article@https://roadmap.sh/vibe-coding/tutorial](https://roadmap.sh/vibe-coding/tutorial)
-- [@article@https://roadmap.sh/vibe-coding/best-practices](https://roadmap.sh/vibe-coding/best-practices)
+- [@article@Vibe coding tutorial: Build your first app with Claude Code](https://roadmap.sh/vibe-coding/tutorial)
+- [@article@Vibe Coding Best Practices: How To Get Consistent Results](https://roadmap.sh/vibe-coding/best-practices)
 - [@article@The 10 Best Vibe Coding Tools in 2026: Our Choices](https://roadmap.sh/vibe-coding/best-tools)
