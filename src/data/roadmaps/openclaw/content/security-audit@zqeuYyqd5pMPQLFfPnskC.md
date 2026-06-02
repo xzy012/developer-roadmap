@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Quick check: openclaw security audit](https://docs.openclaw.ai/gateway/security#quick-check-openclaw-security-audit)
 - [@official@security](https://docs.openclaw.ai/cli/security)
+- [@article@OpenClaw Security: 12 Best Practices Our Experts Recommend](https://roadmap.sh/openclaw/security-best-practices)

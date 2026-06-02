@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Install and Configure](https://docs.openclaw.ai/tools/plugin)
 - [@official@Threat Model](https://docs.openclaw.ai/security/THREAT-MODEL-ATLAS)
+- [@article@OpenClaw Security: 12 Best Practices Our Experts Recommend](https://roadmap.sh/openclaw/security-best-practices)
