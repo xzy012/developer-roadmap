@@ -1,3 +1,8 @@
-# Hope AI
+# Hope
 
-Hope AI generates a complete, production-grade codebase from your requirements. Unlike most app builders, the output includes a full back end with a microservice architecture, a database schema, and an API layer. The generated code is portable and not tied to the Hope AI platform, meaning you can take it and work with it using any standard development tool.
+Hope is an agentic architect that transforms human prompts into composable, production-ready software. By automating complex engineering, it bridges the gap between rapid prototyping and professional standards, enabling teams to build scalable, enterprise-grade systems in hours.
+
+Visit the following resources to learn more:
+
+- [@official@Hope: Ships to Production](https://bit.cloud/products/hope-ai?c=ai-roadmap)
+- [@official@Get started with Hope](https://bit.cloud/docsc=rsh-a?c=rsh-a)

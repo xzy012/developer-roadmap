@@ -4,6 +4,6 @@ Codex is OpenAI's code-focused model, available through the API and integrated i
 
 Visit the following resources to learn more:
 
-- [@official@Codex Docs](https://developers.openai.com/codex)
 - [@course@Introduction to OpenAI Codex](https://www.coursera.org/learn/introduction-to-openai-codex)
+- [@official@Codex Docs](https://developers.openai.com/codex)
 - [@video@Getting started with Codex](https://www.youtube.com/watch?v=px7XlbYgk7I)

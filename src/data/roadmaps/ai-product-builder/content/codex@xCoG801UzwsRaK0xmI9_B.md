@@ -4,6 +4,6 @@ Codex is best for translating a clearly defined requirement into working code. D
 
 Visit the following resources to learn more:
 
-- [@official@Codex Docs](https://developers.openai.com/codex)
 - [@course@Introduction to OpenAI Codex](https://www.coursera.org/learn/introduction-to-openai-codex)
+- [@official@Codex Docs](https://developers.openai.com/codex)
 - [@video@Getting started with Codex](https://www.youtube.com/watch?v=px7XlbYgk7I)

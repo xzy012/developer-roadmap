@@ -4,7 +4,7 @@ Cursor lets you select any part of the codebase and ask questions or request cha
 
 Visit the following resources to learn more:
 
-- [@official@Cursor Docs](https://cursor.com/docs)
 - [@course@Cursor Learn](https://cursor.com/learn)
+- [@official@Cursor Docs](https://cursor.com/docs)
 - [@video@Cursor AI Tutorial for Beginners](https://www.youtube.com/watch?v=3289vhOUdKA)
 - [@video@Cursor Tutorial for Beginners (AI Code Editor)](https://www.youtube.com/watch?v=ocMOZpuAMw4)

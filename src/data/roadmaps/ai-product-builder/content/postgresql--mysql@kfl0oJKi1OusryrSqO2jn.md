@@ -6,6 +6,6 @@ Visit the following resources to learn more:
 
 - [@roadmap@Visit Dedicated PostgreSQL DBA Roadmap](https://roadmap.sh/postgresql-dba)
 - [@official@PostgreSQL Docs](https://www.postgresql.org/docs/)
-- [@official@MySQL Dcos](https://dev.mysql.com/doc/)
+- [@official@MySQL Docs](https://dev.mysql.com/doc/)
 - [@article@Learn PostgreSQL - Full Tutorial for Beginners](https://www.postgresqltutorial.com/)
 - [@article@MySQL Tutorial](https://www.mysqltutorial.org/)
