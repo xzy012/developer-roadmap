@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@roadmap@Visit Dedicated Java Roadmap](https://roadmap.sh/java)
 - [@official@Java Website](https://www.java.com/)
 - [@video@Complete Java course](https://www.youtube.com/watch?v=xk4_1vDrzzo)
-- [@feed@Explore top posts about Java](https://app.daily.dev/tags/java?ref=roadmapsh)

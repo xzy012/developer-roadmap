@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@article@MDN — Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
 - [@article@Google Devs — Content Security Policy (CSP)](https://developers.google.com/web/fundamentals/security/csp)
 - [@video@Content Security Policy Explained](https://www.youtube.com/watch?v=-LjPRzFR5f0)
-- [@feed@Explore top posts about Security](https://app.daily.dev/tags/security?ref=roadmapsh)

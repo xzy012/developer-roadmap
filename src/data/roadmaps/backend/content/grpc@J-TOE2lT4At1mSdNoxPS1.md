@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@official@gRPC Website](https://grpc.io/)
 - [@article@What Is GRPC?](https://www.wallarm.com/what/the-concept-of-grpc)
 - [@video@What Is GRPC?](https://www.youtube.com/watch?v=hVrwuMnCtok)
-- [@feed@Explore top posts about gRPC](https://app.daily.dev/tags/grpc?ref=roadmapsh)

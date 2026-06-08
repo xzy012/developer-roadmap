@@ -6,6 +6,5 @@ Visit the following resources to learn more:
 
 - [@article@Schema migration](https://en.wikipedia.org/wiki/Schema_migration)
 - [@article@What is Database Migration?](https://www.mongodb.com/resources/basics/databases/database-migration)
-- [@article@Database Migrations](https://vadimkravcenko.com/shorts/database-migrations/)
 - [@article@Introduction to Database Migration: A Beginner's Guide](https://www.dbvis.com/thetable/introduction-to-database-migration-a-beginners-guide/)
 - [@video@Database Migrations Explained](https://www.youtube.com/watch?v=mMsZPZKNc4g)

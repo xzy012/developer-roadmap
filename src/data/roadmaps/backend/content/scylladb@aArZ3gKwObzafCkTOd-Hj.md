@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@opensource@scylladb](https://github.com/scylladb/scylladb)
 - [@article@Understanding ScyllaDB: A Comprehensive Overview](https://risingwave.com/blog/understanding-scylladb-a-comprehensive-overview/)
 - [@video@What Makes ScyllaDB So Fast?](https://www.youtube.com/watch?v=JPkrdWMVpPk)
-- [@video@Todo App Part 1: Create an API using NodeJS and Express](https://www.youtube.com/watch?v=bvULDI6dtpw&list=PLSV-L4GsXwgkPrwyXCpL4S5NLAnCeGhvX)

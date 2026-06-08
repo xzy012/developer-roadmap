@@ -4,6 +4,6 @@
 
 Visit the following resources to learn more:
 
-- [@article@AI in software development](https://www.ibm.com/think/topics/ai-in-software-development)
-- [@article@AI in Software Development](https://github.com/resources/articles/ai-in-software-development)
+- [@article@AI in software development - IBM](https://www.ibm.com/think/topics/ai-in-software-development)
+- [@article@AI in Software Development - GitHub](https://github.com/resources/articles/ai-in-software-development)
 - [@article@AI in Software Development: Revolutionizing the Coding Landscape](https://www.coursera.org/articles/ai-in-software-development)

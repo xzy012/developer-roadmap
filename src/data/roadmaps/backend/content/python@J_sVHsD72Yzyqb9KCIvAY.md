@@ -8,5 +8,3 @@ Visit the following resources to learn more:
 - [@course@Python Full Course for free](https://www.youtube.com/watch?v=ix9cRaBkVe0)
 - [@official@Python Website](https://www.python.org/)
 - [@article@Automate the Boring Stuff](https://automatetheboringstuff.com/)
-- [@article@An Introduction to Python for Non-Programmers](https://thenewstack.io/an-introduction-to-python-for-non-programmers/)
-- [@feed@Explore top posts about Python](https://app.daily.dev/tags/python?ref=roadmapsh)

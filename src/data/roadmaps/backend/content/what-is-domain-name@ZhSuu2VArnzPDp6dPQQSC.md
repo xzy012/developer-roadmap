@@ -1,6 +1,6 @@
 # Domain Name
 
-Domain names are human-readable internet addresses that translate to IP addresses for computer identification. Consist of second-level domain ("example") and top-level domain (".com"). Managed by registrars, providing user-friendly website navigation instead of numeric IP addresses.
+Domain names are human-readable internet addresses that translate to IP addresses for computer identification. Consists of a second-level domain ("example") and a top-level domain (".com"). Managed by registrars, providing user-friendly website navigation instead of numeric IP addresses.
 
 Visit the following resources to learn more:
 

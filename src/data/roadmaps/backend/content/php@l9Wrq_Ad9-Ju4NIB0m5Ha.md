@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@official@PHP](https://php.net/)
 - [@article@PHP - The Right Way](https://phptherightway.com/)
 - [@video@PHP for Beginners](https://www.youtube.com/watch?v=zZ6vybT1HQs)
-- [@feed@Explore top posts about PHP](https://app.daily.dev/tags/php?ref=roadmapsh)

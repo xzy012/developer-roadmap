@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@course@OpenTelemetry Course - Understand Software Performance](https://www.youtube.com/watch?v=r8UvWSX3KA8)
 - [@article@What is telemetry and how does it work?](https://www.techtarget.com/whatis/definition/telemetry)
-- [@feed@daily.dev OpenTelemetry feed](https://app.daily.dev/tags/opentelemetry)

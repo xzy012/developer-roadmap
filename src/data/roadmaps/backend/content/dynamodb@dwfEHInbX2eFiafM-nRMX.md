@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@official@AWS DynamoDB](https://aws.amazon.com/dynamodb/)
 - [@video@AWS DynamoDB Tutorial For Beginners](https://www.youtube.com/watch?v=2k2GINpO308)
-- [@feed@daily.dev AWS DynamoDB Feed](https://app.daily.dev/tags/aws-dynamodb)

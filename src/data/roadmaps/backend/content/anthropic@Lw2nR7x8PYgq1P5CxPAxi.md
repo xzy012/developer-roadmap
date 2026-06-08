@@ -4,7 +4,7 @@ Anthropic is an AI safety and research company focused on developing reliable, i
 
 Visit the following resources to learn more:
 
-- [@official@Antropic](https://www.anthropic.com/)
-- [@official@Antropic Academy](https://www.anthropic.com/)
-- [@official@Antropic Tutorial](https://claude.com/resources/tutorials)
+- [@roadmap@Visit the Dedicated Claude Code Roamdap](https://roadmap.sh/claude-code)
+- [@official@Anthropic](https://www.anthropic.com/)
+- [@official@Claude Tutorials](https://claude.com/resources/tutorials)
 - [@article@Anthropic: What We Know About the Company Behind Claude AI](https://builtin.com/articles/anthropic)

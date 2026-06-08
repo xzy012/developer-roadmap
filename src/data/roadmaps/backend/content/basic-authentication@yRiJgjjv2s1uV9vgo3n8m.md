@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@article@HTTP Basic Authentication](https://roadmap.sh/guides/http-basic-authentication)
 - [@video@Basic Authentication in 5 minutes](https://www.youtube.com/watch?v=rhi1eIjSbvk)
 - [@video@Illustrated HTTP Basic Authentication](https://www.youtube.com/watch?v=mwccHwUn7Gc)
-- [@feed@Explore top posts about Authentication](https://app.daily.dev/tags/authentication?ref=roadmapsh)

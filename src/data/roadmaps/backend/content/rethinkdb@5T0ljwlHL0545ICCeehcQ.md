@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@course@RethinkDB Crash Course](https://www.youtube.com/watch?v=pW3PFtchHDc)
 - [@official@RethinkDB Website](https://rethinkdb.com/)
 - [@official@Ten-minute Guide with RethinkDB](https://rethinkdb.com/docs/guide/)
-- [@feed@Explore top posts about RethinkDB](https://app.daily.dev/tags/rethinkdb?ref=roadmapsh)

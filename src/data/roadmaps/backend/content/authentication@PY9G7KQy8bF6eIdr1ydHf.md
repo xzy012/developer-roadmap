@@ -10,4 +10,3 @@ Visit the following resources to learn more:
 - [@article@JWT Authentication](https://roadmap.sh/guides/jwt-authentication)
 - [@article@OAuth - Open Authorization](https://roadmap.sh/guides/oauth)
 - [@article@SSO - Single Sign On](https://roadmap.sh/guides/sso)
-- [@feed@Explore top posts about Authentication](https://app.daily.dev/tags/authentication?ref=roadmapsh)

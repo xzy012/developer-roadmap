@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@article@What is a web server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_web_server)
 - [@video@What is Web Hosting and How Does It Work?](https://www.youtube.com/watch?v=H8oAvyqQwew)
 - [@video@Different Types of Web Hosting Explained](https://www.youtube.com/watch?v=AXVZYzw8geg)
-- [@video@Where to Host a Fullstack Project on a Budget](https://www.youtube.com/watch?v=Kx_1NYYJS7Q)
