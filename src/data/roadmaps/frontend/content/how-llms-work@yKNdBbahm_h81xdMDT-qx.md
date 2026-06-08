@@ -6,7 +6,5 @@ Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated AI Engineer Roadmap](https://roadmap.sh/ai-engineer)
 - [@article@What is a large language model (LLM)?](https://www.cloudflare.com/en-gb/learning/ai/what-is-large-language-model/)
-- [@article@Understanding AI](https://leerob.com/ai)
 - [@article@New to LLMs? Start Here](https://towardsdatascience.com/new-to-llms-start-here/)
 - [@video@How Large Language Models Work](https://www.youtube.com/watch?v=5sLYAQS9sWQ)
-- [@video@Large Language Models Made Easy (LLMs)](https://www.youtube.com/watch?v=osKyvYJ3PRM)

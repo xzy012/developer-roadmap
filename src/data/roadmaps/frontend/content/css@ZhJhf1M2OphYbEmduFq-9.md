@@ -8,5 +8,3 @@ Visit the following resources to learn more:
 - [@course@Responsive Web Design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 - [@article@Web.dev by Google — Learn CSS](https://web.dev/learn/css/)
 - [@video@CSS Complete Course](https://youtu.be/n4R2E7O-Ngo)
-- [@video@HTML & CSS Full Course - Beginner to Pro](https://www.youtube.com/watch?v=G3e-cpL7ofc)
-- [@feed@Explore top posts about CSS](https://app.daily.dev/tags/css?ref=roadmapsh)

@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@official@Tutorials for GitHub Copilot](https://docs.github.com/en/copilot/tutorials)
 - [@article@Github Copilot Tutorial](https://www.tutorialspoint.com/github-copilot/index.htm)
 - [@video@Intro to GitHob Copilot in Visual Studio](https://www.youtube.com/watch?v=z1ycDvspv8U)
-- [@video@GitHub Copilot in VSCode: Top 10 Features Explained](https://www.youtube.com/watch?v=2nPoiUJpDaU)

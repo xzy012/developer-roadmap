@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@article@Service workers](https://web.dev/learn/pwa/service-workers)
 - [@article@Service worker overview - Chrome](https://developer.chrome.com/docs/workbox/service-worker-overview)
 - [@video@What is a service workers](https://www.youtube.com/watch?v=A6MHtKkA0CA)
-- [@video@How does a service worker work?](https://www.youtube.com/watch?v=__xAtWgfzvc)

@@ -7,6 +7,4 @@ Visit the following resources to learn more:
 - [@course@Tailwind CSS Full Course for Beginners](https://www.youtube.com/watch?v=lCxcTsOHrjo)
 - [@official@Tailwind Website](https://tailwindcss.com)
 - [@official@Online Playground](https://play.tailwindcss.com)
-- [@video@Should You Use Tailwind CSS?](https://www.youtube.com/watch?v=hdGsFpZ0J2E)
 - [@video@Official Screencasts](https://www.youtube.com/c/TailwindLabs/videos)
-- [@feed@Explore top posts about CSS](https://app.daily.dev/tags/css?ref=roadmapsh)

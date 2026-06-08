@@ -6,7 +6,5 @@ Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated AI Agents Roadmap](https://roadmap.sh/ai-agents)
 - [@article@What are AI Agents? - IBM](https://www.ibm.com/think/topics/ai-agents)
-- [@article@AI Agents Explained in Simple Terms for Beginners](https://www.geeky-gadgets.com/ai-agents-explained-for-beginners/)
 - [@video@From Zero to Your First AI Agent in 25 Minutes (No Coding)](https://www.youtube.com/watch?v=EH5jx5qPabU)
 - [@video@What are AI Agents?](https://www.youtube.com/watch?v=F8NKVhkZZWI)
-- [@video@I Agents, Clearly Explained](https://www.youtube.com/watch?v=FwOTs4UxQS4)

@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@course@Nuxt.js Fundamentals](https://vueschool.io/courses/nuxtjs-fundamentals)
 - [@official@Nuxt Website](https://nuxtjs.org/)
 - [@article@Get Started with Nuxt](https://explorers.netlify.com/learn/get-started-with-nuxt)
-- [@feed@Explore top posts about JavaScript](https://app.daily.dev/tags/javascript?ref=roadmapsh)

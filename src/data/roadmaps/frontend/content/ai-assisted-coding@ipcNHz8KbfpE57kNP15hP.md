@@ -6,7 +6,5 @@ Visit the following resources to learn more:
 
 - [@book@AI-Assisted Programming](https://www.hkdca.com/wp-content/uploads/2025/06/ai-assisted-programming-oreilly.pdf)
 - [@article@How to Become an Expert in AI-Assisted Coding](https://www.freecodecamp.org/news/how-to-become-an-expert-in-ai-assisted-coding-a-handbook-for-developers/)
-- [@article@Best Practices I Learned for AI Assisted Coding](https://statistician-in-stilettos.medium.com/best-practices-i-learned-for-ai-assisted-coding-70ff7359d403)
+- [@article@The 10 Best Vibe Coding Tools in 2026: Our Choices](https://roadmap.sh/vibe-coding/best-tools)
 - [@video@How to elevate software development with AI-assisted coding](https://www.youtube.com/watch?v=S2GqQ4gJAH0)
-- [@video@Everything You Need to Know About Coding with AI](https://www.youtube.com/watch?v=5fhcklZe-qE)
-- [@video@hat Is Vibe Coding? Building Software with Agentic AI](https://www.youtube.com/watch?v=Y68FF_nUSWE)

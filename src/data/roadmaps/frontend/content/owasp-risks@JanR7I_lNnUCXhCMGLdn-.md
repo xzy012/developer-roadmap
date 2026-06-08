@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@official@OWASP Cheatsheets](https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html)
 - [@opensource@OWASP Web Application Security Testing Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
 - [@article@OWASP Top 10: A Guide to the Worst Software Vulnerabilities](https://thenewstack.io/owasp-top-10-a-guide-to-the-worst-software-vulnerabilities/)
-- [@feed@Explore top posts about Security](https://app.daily.dev/tags/security?ref=roadmapsh)

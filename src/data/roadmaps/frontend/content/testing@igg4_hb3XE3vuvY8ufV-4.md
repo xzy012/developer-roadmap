@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@article@The Different Types of Software Tests](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
 - [@video@How to Test Web Applications - dotJS 2024](https://www.youtube.com/watch?v=l3qjQpYBR8c)
-- [@feed@Explore top posts about Testing](https://app.daily.dev/tags/testing?ref=roadmapsh)

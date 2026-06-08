@@ -4,7 +4,6 @@ Netlify is a web development platform that simplifies building, deploying, and h
 
 Visit the following resources to learn more:
 
-- [@official@Netlify](https://www.netlify.com/)
 - [@official@Netlify Docs](https://docs.netlify.com/)
 - [@official@Get Started with Netlify](https://docs.netlify.com/start/get-started-guide/)
 - [@video@Getting started with Netlify Edge Functions](https://www.youtube.com/watch?v=6pEVhH37xQE&list=PLzlG0L9jlhEPMR8haUPkxj2hJ_3jh5qa6)

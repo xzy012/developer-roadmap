@@ -4,9 +4,7 @@ Cursor is an AI-powered code editor designed to enhance developer productivity. 
 
 Visit the following resources to learn more:
 
-- [@official@Cursor](https://cursor.com/)
 - [@official@Cursor Docs](https://cursor.com/docs)
-- [@official@Cursor Learn](https://cursor.com/learn)
-- [@article@Cursor AI: A Guide With 10 Practical Examples](https://www.datacamp.com/tutorial/cursor-ai-code-editor)
+- [@article@Claude Code vs Cursor: Which AI Coding Tool To Choose](https://roadmap.sh/claude-code/vs-cursor)
 - [@video@Cursor AI Tutorial for Beginners](https://www.youtube.com/watch?v=3289vhOUdKA)
 - [@video@Cursor Tutorial for Beginners (AI Code Editor)](https://www.youtube.com/watch?v=ocMOZpuAMw4)

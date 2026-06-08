@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@roadmap@Visit Dedicated React Roadmap](https://roadmap.sh/react-native)
 - [@official@React Native Website](https://reactnative.dev/)
-- [@feed@Explore top posts about React](https://app.daily.dev/tags/react?ref=roadmapsh)

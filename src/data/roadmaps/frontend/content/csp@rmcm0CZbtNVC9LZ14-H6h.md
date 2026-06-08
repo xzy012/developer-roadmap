@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@article@MDN Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
 - [@article@Web.dev - Content Security Policy (CSP)](https://web.dev/csp/)
-- [@feed@Explore top posts about Security](https://app.daily.dev/tags/security?ref=roadmapsh)

@@ -4,9 +4,7 @@ Bun is a JavaScript runtime, bundler, transpiler, and package manager, all-in-on
 
 Visit the following resources to learn more:
 
-- [@official@Bun](https://bun.com/)
 - [@official@Bun Docs](https://bun.com/docs)
 - [@opensource@bun](https://github.com/oven-sh/bun)
 - [@article@What Is Bun? An All-in-One Runtime Taking on Node.js](https://kinsta.com/blog/bun-sh/)
-- [@video@Bun is disrupting JavaScript land](https://www.youtube.com/watch?v=dWqNgzZwVJQ)
 - [@video@Bun Crash Course | JavaScript Runtime, Bundler & Transpiler](https://www.youtube.com/watch?v=U4JVw8K19uY)

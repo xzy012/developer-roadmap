@@ -5,7 +5,6 @@ Cloudflare is a service that sits between your website and its visitors, acting 
 Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated Cloudflare Roadmap](https://roadmap.sh/cloudflare)
-- [@official@Cloudflare](https://www.cloudflare.com/en-gb/)
 - [@official@Getting started](https://developers.cloudflare.com/pages/get-started/)
 - [@video@What is Cloudflare?](https://www.youtube.com/watch?v=XHvmX3FhTwU)
 - [@video@Learn Cloudflare Workers 101 - Full Course for Beginners](https://www.youtube.com/watch?v=H7Qe96fqg1M)

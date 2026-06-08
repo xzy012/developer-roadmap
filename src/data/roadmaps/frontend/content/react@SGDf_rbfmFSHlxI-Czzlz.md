@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@roadmap@Visit Dedicated React Roadmap](https://roadmap.sh/react)
 - [@course@Full Stack React Developer Course](https://www.youtube.com/watch?v=Bvwq_S0n2pk)
 - [@official@React Website](https://react.dev)
-- [@feed@Explore top posts about React](https://app.daily.dev/tags/react?ref=roadmapsh)

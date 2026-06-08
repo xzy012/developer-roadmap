@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@official@Vue.js Website](https://vuejs.org/)
 - [@article@Meet Vue.js, the Flexible JavaScript Framework](https://thenewstack.io/meet-vue-js-flexible-javascript-framework/)
 - [@video@Vue.js Course for Beginners](https://www.youtube.com/watch?v=VeNfHj6MhgA)
-- [@feed@Explore top posts about Vue.js](https://app.daily.dev/tags/vuejs?ref=roadmapsh)

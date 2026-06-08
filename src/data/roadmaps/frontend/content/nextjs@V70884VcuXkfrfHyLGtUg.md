@@ -4,7 +4,6 @@ Next.js is a React framework supporting server-side rendering and static site ge
 
 Visit the following resources to learn more:
 
+- [@roadmap@Visit the Dedicated Next.js Roadmap](https://roadmap.sh/nextjs)
 - [@official@Next.js Website](https://nextjs.org/)
-- [@article@Visit the Dedicated Next.js Roadmap](https://roadmap.sh/nextjs)
 - [@video@Next.js for Beginners - Full Course at freeCodeCamp YouTube Channel](https://youtu.be/1WmNXEVia8I)
-- [@feed@Explore top posts about JavaScript](https://app.daily.dev/tags/javascript?ref=roadmapsh)

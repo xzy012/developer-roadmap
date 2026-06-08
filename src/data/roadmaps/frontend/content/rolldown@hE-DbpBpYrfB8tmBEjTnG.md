@@ -4,9 +4,7 @@ Rolldown is a fast JavaScript bundler written in Rust, designed to be a drop-in 
 
 Visit the following resources to learn more:
 
-- [@official@Rolldown](https://rolldown.rs/)
 - [@official@Rolldown Docs](https://rolldown.rs/guide/getting-started)
 - [@official@Getting Started](https://rolldown.rs/guide/getting-started)
 - [@opensource@rolldown](https://github.com/rolldown/rolldown)
-- [@article@Rolldown: why it matters](https://dev.to/justinschroeder/rolldown-why-it-matters-4129)
 - [@video@Rolldown: How Vite bundles at the speed of Rust](https://www.youtube.com/watch?v=3PFLeteDuyQ)

@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@roadmap@Visit Dedicated Angular Roadmap](https://roadmap.sh/angular)
 - [@official@Getting started with Angular](https://angular.dev/tutorials/learn-angular)
 - [@video@Angular for Beginners Course](https://www.youtube.com/watch?v=3qBXWUpoPHo)
-- [@feed@Explore top posts about Angular](https://app.daily.dev/tags/angular?ref=roadmapsh)
