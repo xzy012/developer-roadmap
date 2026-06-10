@@ -17,4 +17,3 @@ Now that you know the basics of AWS, you should be able to deploy your applicati
 Visit the following resources to learn more:
 
 - [@video@Deploy Node App on AWS EC2](https://youtu.be/oHAQ3TzUTro)
-- [@feed@Explore top posts about CI/CD](https://app.daily.dev/tags/cicd?ref=roadmapsh)
