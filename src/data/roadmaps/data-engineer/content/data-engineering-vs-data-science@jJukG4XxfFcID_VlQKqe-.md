@@ -4,5 +4,4 @@ Data engineering and data science are distinct but complementary roles within th
 
 Visit the following resources to learn more:
 
-- [@article@Data Scientist vs Data Engineer](https://www.datacamp.com/blog/data-scientist-vs-data-engineer)
 - [@video@Should You Be a Data Scientist, Analyst or Engineer?](https://www.youtube.com/watch?v=dUnKYhripIE)

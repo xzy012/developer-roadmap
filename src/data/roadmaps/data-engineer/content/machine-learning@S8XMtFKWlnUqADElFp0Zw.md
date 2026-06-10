@@ -4,5 +4,6 @@ Machine learning, a subset of artificial intelligence, is an indispensable tool 
 
 Visit the following resources to learn more:
 
+- [@roadmap@Visit the Dedicated Java Roadmap](https://roadmap.sh/machine-learning)
 - [@article@What is Machine Learning (ML)?](https://www.ibm.com/topics/machine-learning)
 - [@video@What is Machine Learning?](https://www.youtube.com/watch?v=9gGnTQTYNaE)

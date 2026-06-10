@@ -6,5 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@What are Containers?](https://azure.microsoft.com/en-us/products/cosmos-db#FAQ)
 - [@official@CAzure Cosmos DB - Database for the AI Era](https://learn.microsoft.com/en-us/azure/cosmos-db/introduction)
-- [@article@CAzure Cosmos DB: A Global-Scale NoSQL Cloud Database](https://www.datacamp.com/tutorial/azure-cosmos-db)
 - [@video@What is Azure Cosmos DB?](https://www.youtube.com/watch?v=hBY2YcaIOQM&)

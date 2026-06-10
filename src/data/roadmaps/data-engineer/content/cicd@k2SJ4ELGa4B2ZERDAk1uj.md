@@ -1,8 +1,6 @@
-# CI / CD
-
-**Continuous Integration** is a software development method where team members integrate their work at least once daily. An automated build checks every integration to detect errors in this method. In Continuous Integration, the software is built and tested immediately after a code commit. In a large project with many developers, commits are made many times during the day. With each commit, code is built and tested.
-
-**Continuous Delivery** is a software engineering method in which a team develops software products in a short cycle. It ensures that software can be easily released at any time. The main aim of continuous delivery is to build, test, and release software with good speed and frequency. It helps reduce the cost, time, and risk of delivering changes by allowing for frequent updates in production.
+# CI/CD
+ 
+CI/CD (Continuous Integration and Continuous Delivery) is a set of practices and tools for automating the testing and deployment of code changes. In data engineering, CI/CD pipelines validate pipeline code, run tests, and deploy updates to production automatically. This reduces manual errors and accelerates the delivery of pipeline changes.
 
 Visit the following resources to learn more:
 

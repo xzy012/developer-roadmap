@@ -4,10 +4,7 @@ Java has had a big influence on data engineering because many core big data tool
 
 Visit the following resources to learn more:
 
-- [@book@Thinking in Java](https://www.amazon.co.uk/Thinking-Java-Eckel-Bruce-February/dp/B00IBON6C6)
-- [@book@Java: The Complete Reference](https://www.amazon.co.uk/gp/product/B09JL8BMK7/ref=dbs_a_def_rwt_bibl_vppi_i2)
-- [@article@@courseIntroduction to Java by Hyperskill (JetBrains Academy)](https://hyperskill.org/courses/8)
-- [@article@Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997)
+- [@roadmap@Visit the Dedicated Java Roadmap](https://roadmap.sh/java)
+- [@course@Introduction to Java by Hyperskill (JetBrains Academy)](https://hyperskill.org/courses/8)
 - [@video@Java Tutorial for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34&feature=youtu.be)
 - [@video@Java + DSA + Interview Preparation Course (For beginners)](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
-- [@feed@Explore top posts about Java](https://app.daily.dev/tags/java?ref=roadmapsh)

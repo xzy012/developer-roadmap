@@ -1,6 +1,6 @@
-# Amazon EC2 ( Compute)
-
-Amazon Elastic Compute Cloud (EC2) is a web service that provides secure, resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers. EC2’s simple web service interface allows you to obtain and configure capacity with minimal friction. EC2 enables you to scale your compute capacity, develop and deploy applications faster, and run applications on AWS's reliable computing environment. You have the control of your computing resources and can access various configurations of CPU, Memory, Storage, and Networking capacity for your instances.
+# Amazon EC2 (Compute)
+ 
+Amazon EC2 (Elastic Compute Cloud) provides virtual servers in the AWS cloud. Users can choose instance types optimized for compute, memory, or storage, and pay only for what they run. EC2 is used for running data processing jobs, hosting databases, and building custom data infrastructure on AWS.
 
 Visit the following resources to learn more:
 

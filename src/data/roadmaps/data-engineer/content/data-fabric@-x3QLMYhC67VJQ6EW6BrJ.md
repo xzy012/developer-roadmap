@@ -1,6 +1,6 @@
 # Data Fabric
-
-A data fabric is a single environment consisting of a unified architecture with services and technologies running on it that architecture that helps a company manage their data. It enables accessing, ingesting, integrating, and sharing data in a environment where the data can be batched or streamed and be in the cloud or on-prem. The ultimate goal of data fabric is to use all your data to gain better insights into your company and make better business decisions. A data fabric includes building blocks such as data pipeline, data access, data lake, data store, data policy, ingestion framework, and data visualization. These building blocks would be used to build platforms or “products” such as a client data integration platform, data hub, governance framework, and a global semantic layer, giving you centralized governance and standardization
+ 
+Data fabric is an architectural concept that aims to provide a unified layer for accessing and managing data across heterogeneous environments, including on-premises and multiple clouds. It uses metadata, automation, and integration patterns to connect disparate data sources. Data fabric focuses on making data discoverable and accessible without requiring it to be moved to a central location.
 
 Visit the following resources to learn more:
 

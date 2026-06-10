@@ -1,6 +1,6 @@
 # Infrastructure as Code - IaC
-
-Infrastructure as code (IaC) is the ability to provision and support your computing infrastructure using code instead of manual processes and settings. Manual infrastructure management is time-consuming and prone to error—especially when you manage applications at scale. Infrastructure as code lets you define your infrastructure's desired state without including all the steps to get to that state. It automates infrastructure management so developers can focus on building and improving applications instead of managing environments. Organizations use infrastructure as code to control costs, reduce risks, and respond with speed to new business opportunities.
+ 
+Infrastructure as Code (IaC) is the practice of managing and provisioning infrastructure through machine-readable configuration files rather than manual processes. Tools like Terraform, AWS CloudFormation, and Pulumi allow teams to define infrastructure declaratively and version it in Git. IaC makes infrastructure reproducible, auditable, and easier to manage at scale.
 
 Visit the following resources to learn more:
 

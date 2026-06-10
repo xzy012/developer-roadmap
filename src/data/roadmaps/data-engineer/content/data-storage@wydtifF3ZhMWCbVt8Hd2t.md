@@ -1,6 +1,6 @@
 # Data Storage
-
-Data storage is the process of saving and preserving digital information on various physical or cloud-based media for future retrieval and use. It encompasses the use of technologies and devices like hard drives and cloud platforms to store data.
+ 
+Data storage in the engineering lifecycle refers to where and how data is persisted after it is generated or ingested. The choice of storage system depends on access patterns, data volume, latency requirements, and cost. Options range from relational databases to object storage, data lakes, and columnar warehouses.
 
 Visit the following resources to learn more:
 

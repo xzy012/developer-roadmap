@@ -1,12 +1,10 @@
-# DataStructures and Algorithms
-
-**Data Structures** are primarily used to collect, organize and perform operations on the stored data more effectively. They are essential for designing advanced-level Android applications. Examples include Array, Linked List, Stack, Queue, Hash Map, and Tree.
-
-**Algorithms** are a sequence of instructions or rules for performing a particular task. Algorithms can be used for data searching, sorting, or performing complex business logic. Some commonly used algorithms are Binary Search, Bubble Sort, Selection Sort, etc. A deep understanding of data structures and algorithms is crucial in optimizing the performance and the memory consumption of data pipelines
+# Data Structures and Algorithms
+ 
+Data structures and algorithms form the foundation for writing efficient code. This knowledge is relevant for data engineers when optimizing queries, designing storage schemas, and building processing logic that scales. Common topics include arrays, hash maps, trees, sorting, and complexity analysis.
 
 Visit the following resources to learn more:
 
+- [@roadmap@Visit the Dedicated DSA Roadmap](https://roadmap.sh/datastructures-and-algorithms)
 - [@article@Interview Questions about Data Structures](https://www.csharpstar.com/csharp-algorithms/)
 - [@video@Data Structures Illustrated](https://www.youtube.com/watch?v=9rhT3P1MDHk&list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY)
 - [@video@Intro to Algorithms](https://www.youtube.com/watch?v=rL8X2mlNHPM)
-- [@feed@Explore top posts about Algorithms](https://app.daily.dev/tags/algorithms?ref=roadmapsh)

@@ -1,10 +1,10 @@
 # Elasticsearch
-
-Elastic search at its core is a document-oriented search engine. It is a document based database that lets you INSERT, DELETE , RETRIEVE and even perform analytics on the saved records. But, Elastic Search is unlike any other general purpose database you have worked with, in the past. It's essentially a search engine and offers an arsenal of features you can use to retrieve the data stored in it, as per your search criteria. And that too, at lightning speeds.
+ 
+Elasticsearch is a distributed search and analytics engine built on Apache Lucene. It is designed for full-text search, log analysis, and real-time data exploration. Elasticsearch is commonly used as the backend for search features in applications and as a centralized store for log and event data, often alongside Kibana.
 
 Visit the following resources to learn more:
 
+- [@roadmap@Visit the Dedicated Elasticsearch Roadmap](https://roadmap.sh/elasticsearch)
 - [@official@Elasticsearch Website](https://www.elastic.co/elasticsearch/)
 - [@official@Elasticsearch Documentation](https://www.elastic.co/guide/index.html)
 - [@video@What is Elasticsearch](https://www.youtube.com/watch?v=ZP0NmfyfsoM)
-- [@feed@Explore top posts about ELK](https://app.daily.dev/tags/elk?ref=roadmapsh)

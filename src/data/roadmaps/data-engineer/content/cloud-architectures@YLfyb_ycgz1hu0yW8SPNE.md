@@ -1,13 +1,6 @@
 # Cloud Architectures
-
-Cloud architecture refers to how various cloud technology components, such as hardware, virtual resources, software capabilities, and virtual network systems interact and connect to create cloud computing environments. Cloud architecture dictates how components are integrated so that you can pool, share, and scale resources over a network. It acts as a blueprint that defines the best way to strategically combine resources to build a cloud environment for a specific business need.
-
-Cloud architecture components can included, among others:
-
-*   A frontend platform
-*   A backend platform
-*   A cloud-based delivery model
-*   A network (internet, intranet, or intercloud)
+ 
+Cloud architectures describe how systems are designed to run on cloud infrastructure. Common patterns include multi-tier architectures, microservices, event-driven designs, and serverless functions. Good cloud architecture balances cost, reliability, scalability, and security.
 
 Visit the following resources to learn more:
 

@@ -5,4 +5,4 @@
 Visit the following resources to learn more:
 
 - [@article@What is a Document Database?](https://www.mongodb.com/resources/basics/databases/document-databases)
-- [@article@HDocument-oriented database](https://en.wikipedia.org/wiki/Document-oriented_database)
+- [@article@Document-oriented database](https://en.wikipedia.org/wiki/Document-oriented_database)

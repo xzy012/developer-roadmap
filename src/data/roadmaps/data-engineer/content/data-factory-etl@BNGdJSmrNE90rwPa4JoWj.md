@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@course@Microsoft Azure - Data Factory](https://www.coursera.org/learn/microsoft-azure---data-factory)
 - [@official@What is Azure Data Factory?](https://learn.microsoft.com/en-us/azure/data-factory/introduction)
 - [@official@Azure Data Factory Documentation](https://learn.microsoft.com/en-gb/azure/data-factory/)
-- [@official@Azure Data Factory Documentation](https://learn.microsoft.com/en-gb/azure/data-factory/)

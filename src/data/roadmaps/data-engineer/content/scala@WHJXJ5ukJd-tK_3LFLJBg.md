@@ -4,6 +4,7 @@ Scala is a programming language that combines the strengths of object-oriented a
 
 Visit the following resources to learn more:
 
+- [@roadmap@Visit the Dedicated Scala Roadmap](https://roadmap.sh/scala)
 - [@official@The Scala Programming Language](https://www.scala-lang.org/)
 - [@article@Scala for Beginners: An Introduction](https://daily.dev/blog/scala-for-beginners-an-introduction)
 - [@video@Scala Tutorial](https://www.youtube.com/playlist?list=PLS1QulWo1RIagob5D6kMIAvu7DQC5VTh3)

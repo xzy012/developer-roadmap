@@ -5,5 +5,4 @@ Streamlit is a free and open-source framework to rapidly build and share machine
 Visit the following resources to learn more:
 
 - [@official@Streamlit Docs](https://docs.streamlit.io/)
-- [@official@Streamlit Python: Tutorial](https://www.datacamp.com/tutorial/streamlit)
 - [@video@EStreamlit Explained: Python Tutorial for Data Scientists](https://www.youtube.com/watch?v=c8QXUrvSSyg)

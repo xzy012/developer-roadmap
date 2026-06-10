@@ -5,4 +5,3 @@
 Visit the following resources to learn more:
 
 - [@article@What is Data Lineage? - IBM](https://www.ibm.com/topics/data-lineage)
-- [@article@What is Data Lineage? - Datacamp](https://www.datacamp.com/blog/data-lineage)

@@ -1,6 +1,6 @@
-# GDPR in API Design
-
-The General Data Protection Regulation (GDPR) is an essential standard in API Design that addresses the storage, transfer, and processing of personal data of individuals within the European Union. With regards to API Design, considerations must be given on how APIs handle, process, and secure the data to conform with GDPR's demands on data privacy and security. This includes requirements for explicit consent, right to erasure, data portability, and privacy by design. Non-compliance with these standards not only leads to hefty fines but may also erode trust from users and clients. As such, understanding the impact and integration of GDPR within API design is pivotal for organizations handling EU residents' data.
+# GDPR
+ 
+GDPR (General Data Protection Regulation) is a data privacy law enacted by the European Union that governs how personal data of EU residents is collected, stored, processed, and shared. It grants individuals rights over their data, including the right to access, correct, and delete it. Data engineers must design systems that support these rights and comply with GDPR requirements such as data minimization and purpose limitation.
 
 Visit the following resources to learn more:
 

@@ -1,12 +1,10 @@
-# Networking
-
-Networking is the process of connecting two or more computing devices together for the purpose of sharing data. In a data network, shared data may be as simple as a printer or as complex as a global financial transaction.
-
-If you have networking experience or want to be a reliability engineer or operations engineer, expect questions from these topics. Otherwise, this is just good to know.
+Networking Fundamentals
+ 
+Networking fundamentals cover how data moves between systems: IP addressing, DNS, HTTP, TCP/UDP, and firewalls. Data engineers encounter networking when configuring cloud resources, troubleshooting pipeline failures, or setting up secure connections between services. A basic understanding of how networks operate helps diagnose connectivity issues and design reliable architectures.
 
 Visit the following resources to learn more:
 
+- [@roadmap@Visit the Dedicated Network Engineer Roadmap](https://roadmap.sh/network-engineer)
 - [@article@Khan Academy - Networking](https://www.khanacademy.org/computing/code-org/computers-and-the-internet)
 - [@video@Computer Networking Course - Network Engineering](https://www.youtube.com/watch?v=qiQR5rTSshw)
 - [@video@Networking Video Series (21 videos)](https://www.youtube.com/playlist?list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j)
-- [@feed@Explore top posts about Networking](https://app.daily.dev/tags/networking?ref=roadmapsh)

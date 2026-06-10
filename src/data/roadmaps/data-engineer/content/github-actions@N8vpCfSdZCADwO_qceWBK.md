@@ -1,6 +1,6 @@
 # GitHub Actions
-
-GitHub Actions is a CI/CD tool integrated directly into GitHub, allowing developers to automate workflows, such as building, testing, and deploying code directly from their repositories. It uses YAML files to define workflows, which can be triggered by various events like pushes, pull requests, or on a schedule. GitHub Actions supports a wide range of actions and integrations, making it highly customizable for different project needs. It provides a marketplace with reusable workflows and actions contributed by the community. With its seamless integration with GitHub, developers can take advantage of features like matrix builds, secrets management, and environment-specific configurations to streamline and enhance their development and deployment processes.
+ 
+GitHub Actions is a CI/CD platform built into GitHub. It allows developers to define automated workflows as YAML files that trigger on code events like pushes and pull requests. GitHub Actions is widely used to run tests, lint code, build Docker images, and deploy data pipelines.
 
 Visit the following resources to learn more:
 

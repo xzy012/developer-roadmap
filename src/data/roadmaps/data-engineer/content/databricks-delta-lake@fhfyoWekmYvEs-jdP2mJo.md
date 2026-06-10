@@ -6,5 +6,4 @@ Visit the following resources to learn more:
 
 - [@book@The Delta Lake Series — Fundamentals and Performance](https://www.databricks.com/resources/ebook/the-delta-lake-series-fundamentals-performance)
 - [@official@What is Delta Lake in Databricks?](https://docs.databricks.com/aws/en/delta)
-- [@article@Delta Table in Databricks: A Complete Guide](https://www.datacamp.com/tutorial/delta-table-in-databricks)
 - [@video@Delta Lake](https://www.databricks.com/resources/demos/videos/lakehouse-platform/delta-lake)

@@ -1,12 +1,10 @@
 # Go
-
-Go, also known as Golang, is a statically typed, compiled programming language designed by Google. It combines the efficiency of compiled languages with the ease of use of dynamically typed interpreted languages. Go features built-in concurrency support through goroutines and channels, making it well-suited for networked and multicore systems. It has a simple and clean syntax, fast compilation times, and efficient garbage collection. Go's standard library is comprehensive, reducing the need for external dependencies. The language emphasizes simplicity and readability, with features like implicit interfaces and a lack of inheritance. Go is particularly popular for building microservices, web servers, and distributed systems. Its performance, simplicity, and robust tooling make it a favored choice for cloud-native development, DevOps tools, and large-scale backend systems.
+ 
+Go is a compiled language developed by Google, known for its simplicity, fast execution, and strong concurrency model. In data engineering, it is used to build lightweight, high-throughput services and tools. Its performance characteristics make it a good fit for data pipeline components where latency and resource efficiency matter.
 
 Visit the following resources to learn more:
 
 - [@roadmap@Visit Dedicated Go Roadmap](https://roadmap.sh/golang)
-- [@official@Go Reference Documentation](https://go.dev/doc/)
-- [@article@Go by Example - annotated example programs](https://gobyexample.com/)
+- [@official@Go Documentation](https://go.dev/doc/)
 - [@article@Go, the Programming Language of the Cloud](https://thenewstack.io/go-the-programming-language-of-the-cloud/)
 - [@video@Go Programming â€“ Golang Course with Bonus Projects](https://www.youtube.com/watch?v=un6ZyFkqFKo)
-- [@feed@Explore top posts about Golang](https://app.daily.dev/tags/golang?ref=roadmapsh)

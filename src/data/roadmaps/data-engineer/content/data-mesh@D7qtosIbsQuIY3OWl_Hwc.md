@@ -5,5 +5,4 @@ A data mesh is a modern approach to data architecture that shifts data managemen
 Visit the following resources to learn more:
 
 - [@article@What Is a Data Mesh? - AWS](https://aws.amazon.com/what-is/data-mesh)
-- [@article@What Is a Data Mesh? - Datacamp](https://www.datacamp.com/blog/data-mesh)
 - [@video@Data Mesh Architecture](https://www.datamesh-architecture.com/)

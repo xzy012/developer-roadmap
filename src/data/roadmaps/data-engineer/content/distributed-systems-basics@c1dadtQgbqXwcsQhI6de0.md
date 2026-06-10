@@ -6,4 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@Introduction to Distributed Systems](https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems-3b91562c9b3c/)
 - [@article@Distributed Systems Guide](https://www.baeldung.com/cs/distributed-systems-guide)
-- [@video@Quick overview](https://www.youtube.com/watch?v=IJWwfMyPu1c)
+- [@video@Distributed Systems Explained](https://www.youtube.com/watch?v=IJWwfMyPu1c)

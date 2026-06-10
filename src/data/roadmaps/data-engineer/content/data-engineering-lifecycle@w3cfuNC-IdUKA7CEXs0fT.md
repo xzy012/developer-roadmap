@@ -1,13 +1,6 @@
 # Data Engineering Lifecycle
-
-The data engineering lifecycle encompasses the entire process of transforming raw data into a useful end product. It involves several stages, each with specific roles and responsibilities. This lifecycle ensures that data is handled efficiently and effectively, from its initial generation to its final consumption.
-
-It involves 4 steps:
-
-1.  Data Generation: Collecting data from various source systems.
-2.  Data Storage: Safely storing data for future processing and analysis.
-3.  Data Ingestion: Transforming and bringing data into a centralized system.
-4.  Data Serving: Providing data to end-users for decision-making and operational purposes.
+ 
+The data engineering lifecycle describes the stages data moves through from creation to consumption. These stages typically include generation, ingestion, storage, transformation, and serving. Each stage has its own tools, failure modes, and design considerations. Understanding the full lifecycle helps engineers make better decisions about architecture and tooling.
 
 Visit the following resources to learn more:
 

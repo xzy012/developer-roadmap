@@ -6,5 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Snowflake Docs](https://docs.snowflake.com/)
 - [@official@Snowflake in 20 minutes](https://docs.snowflake.com/en/user-guide/tutorials/snowflake-in-20minutes)
-- [@article@Snowflake Tutorial For Beginners: From Architecture to Running Databases](https://www.datacamp.com/tutorial/introduction-to-snowflake-for-beginners)
 - [@video@Learn Snowflake in 2 Hours](https://www.youtube.com/watch?v=mP3QbYURT9k)

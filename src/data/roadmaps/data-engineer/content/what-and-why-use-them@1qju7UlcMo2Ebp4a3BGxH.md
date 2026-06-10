@@ -1,3 +1,3 @@
 # What and why use them?
-
-In data engineering, messaging systems act as central brokers for data communication, allowing different applications and services to send and receive data in a decoupled, scalable, and fault-tolerant way. They are crucial for handling high-volume, real-time data streams, building resilient data pipelines, and enabling event-driven architectures by acting as buffers and communication channels between data producers and consumers. Key benefits include decoupling systems for agility, ensuring data reliability through queuing and retries, and horizontal scalability to manage growing data loads, while common examples include Apache Kafka and message queues like RabbitMQ and AWS SQS.
+ 
+Messaging systems solve the problem of tight coupling between systems. Instead of one service directly calling another, it sends a message to a broker, and the consumer reads it when ready. This improves reliability, scalability, and flexibility, especially when producers and consumers operate at different speeds or scales.

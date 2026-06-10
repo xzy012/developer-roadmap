@@ -1,6 +1,6 @@
-# Data Warehouse
-
-**Data Warehouses** are data storage systems which are designed for analyzing, reporting and integrating with transactional systems. The data in a warehouse is clean, consistent, and often transformed to meet wide-range of business requirements. Hence, data warehouses provide structured data but require more processing and management compared to data lakes.
+# What is Data Warehouse?
+ 
+A data warehouse is a centralized repository for storing large volumes of structured, historical data from multiple sources. It is optimized for analytical queries rather than transactional operations. Data warehouses power business intelligence, reporting, and data analysis, providing a single source of truth across an organization.
 
 Visit the following resources to learn more:
 

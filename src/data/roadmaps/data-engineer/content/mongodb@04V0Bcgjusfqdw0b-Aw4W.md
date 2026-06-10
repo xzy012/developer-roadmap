@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@official@MongoDB Website](https://www.mongodb.com/)
 - [@official@Learning Path for MongoDB Developers](https://learn.mongodb.com/catalog)
 - [@article@MongoDB Online Sandbox](https://mongoplayground.net/)
-- [@feed@daily.dev MongoDB Feed](https://app.daily.dev/tags/mongodb)

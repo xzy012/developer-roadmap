@@ -1,6 +1,6 @@
 # Compute Engine (Compute)
-
-Compute Engine is a computing and hosting service that lets you create and run virtual machines on Google infrastructure. Compute Engine offers scale, performance, and value that lets you easily launch large compute clusters on Google's infrastructure. There are no upfront investments, and you can run thousands of virtual CPUs on a system that offers quick, consistent performance. You can configure and control Compute Engine resources using the Google Cloud console, the Google Cloud CLI, or using a REST-based API. You can also use a variety of programming languages to run Compute Engine, including Python, Go, and Java.
+ 
+Google Cloud Compute Engine provides virtual machine instances on Google's infrastructure. It supports custom machine types, preemptible VMs for cost savings, and integration with other Google Cloud services. Compute Engine is used for running custom workloads, data processing jobs, and services that require full control over the operating environment.
 
 Visit the following resources to learn more:
 

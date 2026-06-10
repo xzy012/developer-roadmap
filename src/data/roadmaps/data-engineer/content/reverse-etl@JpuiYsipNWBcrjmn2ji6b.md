@@ -4,5 +4,4 @@ Reverse ETL is the process of extracting data from a data warehouse, transformin
 
 Visit the following resources to learn more:
 
-- [@article@What is Reverse ETL? A Helpful Guide](https://www.datacamp.com/blog/reverse-etl)
 - [@video@What is Reverse ETL?](https://www.youtube.com/watch?v=DRAGfc5or2Y)

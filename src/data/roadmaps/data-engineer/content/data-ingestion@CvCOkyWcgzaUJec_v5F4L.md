@@ -5,4 +5,4 @@ Data ingestion is the third step in the data engineering lifecycle. It entails t
 Visit the following resources to learn more:
 
 - [@article@What is Data Ingestion?](https://www.ibm.com/think/topics/data-ingestion)
-- [@article@WData Ingestion](https://www.qlik.com/us/data-ingestion)
+- [@article@Data Ingestion](https://www.qlik.com/us/data-ingestion)
