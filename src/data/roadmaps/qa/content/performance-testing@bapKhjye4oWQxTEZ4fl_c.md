@@ -19,5 +19,8 @@ Following are the commonly used performance testing types, but not limited to:
 
 Visit the following resources to learn more:
 
-- [@article@Performance Testing Tutorial – Types (Example)](https://www.guru99.com/performance-testing.html)
-- [@feed@Explore top posts about Performance](https://app.daily.dev/tags/performance?ref=roadmapsh)
+- [@article@What is performance testing? A QA engineer's guide to testing under real traffic](https://www.evaluat.com/blog/what-is-performance-testing)
+- [@article@Core Web Vitals Under Load, Explained](https://www.evaluat.com/blog/core-web-vitals-load-testing)
+- [@article@Reading p95 and p99 Response Time](https://www.evaluat.com/blog/p95-p99-response-time)
+- [@article@What Is an Apdex Score?](https://www.evaluat.com/blog/what-is-an-apdex-score)
+- [@article@API vs Browser Performance Testing](https://www.evaluat.com/blog/api-vs-browser-performance-testing)

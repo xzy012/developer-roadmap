@@ -9,4 +9,5 @@ Visit the following resources to learn more:
 - [@article@What is CI/CD? Continuous Integration and Continuous Delivery](https://www.guru99.com/continuous-integration.html)
 - [@article@Continuous Integration vs Delivery vs Deployment](https://www.guru99.com/continuous-integration-vs-delivery-vs-deployment.html)
 - [@article@CI/CD Pipeline: Learn with Example](https://www.guru99.com/ci-cd-pipeline.html)
+- [@article@Where Performance Testing Fits in an Agile Release Cycle](https://www.evaluat.com/blog/performance-testing-agile-release-cycle)
 - [@feed@Explore top posts about QA](https://app.daily.dev/tags/qa?ref=roadmapsh)

@@ -13,3 +13,9 @@ There are three objectives (three S) of Performance testing to observe and evalu
 *   Capacity Testing
 
 Load Testing is one type of performance testing. It helps to evaluate the application under tests' behaviors such as response time, throughput, pass/fail transactions, and more under the normal workload. e.g., cart checkout response time is 500 milliseconds under typical business hours.
+
+Visit the following resources to learn more:
+
+- [@article@Performance Testing: The Complete Guide](https://www.evaluat.com/blog/performance-testing-guide)
+- [@article@What Is Spike Testing? Preparing for Traffic Surges](https://www.evaluat.com/blog/what-is-spike-testing)
+- [@article@Soak Testing: Catching Memory Leaks Over Time](https://www.evaluat.com/blog/soak-testing)

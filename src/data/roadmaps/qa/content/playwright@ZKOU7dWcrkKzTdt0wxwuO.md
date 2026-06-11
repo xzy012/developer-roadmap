@@ -4,6 +4,6 @@ Playwright is an open-source library for automating web browsers built by Micros
 
 Visit the following resources to learn more:
 
-- [@opensource@Playwright for .NET](https://github.com/microsoft/playwright-dotnet)
+- [@article@Playwright for Performance Testing](https://www.evaluat.com/blog/playwright-performance-testing)
 - [@article@How to test Apps with Playwright and .NETs](https://www.twilio.com/blog/test-web-apps-with-playwright-and-csharp-dotnet)
 - [@article@End-to-End Tests With ASP.NET and Playwright](https://khalidabuhakmeh.com/end-to-end-test-with-aspnet-core-xunit-and-playwright)

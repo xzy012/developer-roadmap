@@ -4,5 +4,5 @@ Lighthouse is an open-source, automated tool for improving the quality of web pa
 
 Visit the following resources to learn more:
 
-- [@opensource@Lighthouse Source](https://github.com/GoogleChrome/lighthouse/)
+- [@article@Core Web Vitals: Why Lighthouse Scores Differ From Real Users](https://www.evaluat.com/blog/core-web-vitals-lab-vs-field)
 - [@feed@Explore top posts about Lighthouse](https://app.daily.dev/tags/lighthouse?ref=roadmapsh)
