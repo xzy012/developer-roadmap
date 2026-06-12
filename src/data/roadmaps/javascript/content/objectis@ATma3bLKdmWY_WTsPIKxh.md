@@ -1,21 +1,6 @@
 # Object.is
-
-The Object.is() static method determines whether two values are the same value.
-
-```js
-console.log(Object.is('1', 1));
-// Expected output: false
-
-console.log(Object.is(NaN, NaN));
-// Expected output: true
-
-console.log(Object.is(-0, 0));
-// Expected output: false
-
-const obj = {};
-console.log(Object.is(obj, {}));
-// Expected output: false
-```
+ 
+`Object.is()` is a method for comparing two values with stricter behavior than `===`. It handles two edge cases differently: `Object.is(NaN, NaN)` returns `true` (while `NaN === NaN` is `false`), and `Object.is(+0, -0)` returns `false` (while `+0 === -0` is `true`). It is useful when exact value identity is needed.
 
 Visit the following resources to learn more:
 

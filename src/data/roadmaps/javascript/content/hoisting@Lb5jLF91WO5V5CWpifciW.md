@@ -1,6 +1,6 @@
 # Hoisting
-
-JavaScript Hoisting refers to the process whereby the interpreter appears to move the declaration of functions, variables, or classes to the top of their scope, prior to execution of the code.
+ 
+Hoisting is JavaScript's behavior of moving variable and function declarations to the top of their containing scope before code execution. Variables declared with `var` are hoisted and initialized as `undefined`. Function declarations are fully hoisted, meaning they can be called before they appear in the source code. `let` and `const` are hoisted but not initialized, resulting in a temporal dead zone.
 
 Visit the following resources to learn more:
 

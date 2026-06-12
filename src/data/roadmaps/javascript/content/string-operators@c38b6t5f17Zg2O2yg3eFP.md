@@ -1,8 +1,6 @@
 # String Operators
 
-In addition to the comparison operators, which can be used on string values, the concatenation operator (`+`) concatenates two string values together, returning another string that is the union of the two operand strings.
-
-The shorthand assignment operator `+=` can also be used to concatenate strings.
+In addition to the comparison operators, which can be used on string values, the concatenation operator (`+`) concatenates two string values together, returning another string that is the union of the two operand strings. The shorthand assignment operator `+=` can also be used to concatenate strings.
 
 Visit the following resources to learn more:
 

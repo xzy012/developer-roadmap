@@ -1,14 +1,6 @@
-# Built-in objects
-
-Built-in objects, or "global objects", are those built into the language specification itself. There are numerous built-in objects with the JavaScript language, all of which are accessible at the global scope. Some examples are:
-
-- `Number`
-- `Math`
-- `Date`
-- `String`
-- `Error`
-- `Function`
-- `Boolean`
+# Built-in Objects
+ 
+JavaScript provides a set of built-in objects that are available without any imports. These include `Math`, `Date`, `JSON`, `Array`, `RegExp`, `Promise`, and others. They provide standard functionality for common tasks like math operations, date manipulation, and data serialization.
 
 Visit the following resources to learn more:
 

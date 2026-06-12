@@ -1,6 +1,6 @@
 # Typed Arrays
-
-In Javascript, a typed array is an array-like buffer of binary data. There is no JavaScript property or object named TypedArray, but properties and methods can be used with typed array objects.
+ 
+Typed Arrays are array-like objects for working with raw binary data of a specific numeric type. Types include `Int8Array`, `Uint8Array`, `Float32Array`, and others, each representing a different size and format. They are used in performance-sensitive contexts such as audio processing, WebGL, and network protocols.
 
 Visit the following resources to learn more:
 

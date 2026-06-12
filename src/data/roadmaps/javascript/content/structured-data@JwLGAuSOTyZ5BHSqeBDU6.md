@@ -1,8 +1,6 @@
-# Structured data
-
-Structured data is used by search-engines, like Google, to understand the content of the page, as well as to gather information about the web and the world in general.
-
-It is also coded using in-page markup on the page that the information applies to.
+# Structured Data
+ 
+Structured data refers to data organized in a defined, parseable format. In JavaScript, JSON (JavaScript Object Notation) is the primary format for structured data exchange. It represents data as key-value pairs and arrays and is widely used for API communication and configuration files.
 
 Visit the following resources to learn more:
 

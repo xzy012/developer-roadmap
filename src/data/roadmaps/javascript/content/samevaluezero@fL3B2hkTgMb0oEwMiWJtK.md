@@ -1,6 +1,6 @@
-# Same value zero
-
-[SameValueZero](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness#same-value-zero_equality) equality determines whether two values are functionally identical in all contexts with +0 and -0 are also considered equal.
+# SameValueZero
+ 
+SameValueZero is an equality algorithm used internally by JavaScript in methods like `Array.prototype.includes()` and `Map` key comparison. It behaves like `===` but treats `NaN` as equal to itself. Unlike `SameValue`, it considers `+0` and `-0` as equal.
 
 Visit the following resources to learn more:
 

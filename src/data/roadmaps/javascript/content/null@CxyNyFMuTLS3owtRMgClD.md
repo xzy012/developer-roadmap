@@ -1,10 +1,6 @@
 # null
-
-The `null` value in JavaScript signifies the deliberate absence of any object value. It is considered as one of JavaScript's primitive values and a `falsy` value.
-
-*Deliberate absence* emphasises the intentional use of `null` to indicate that a variable does not point to any object. This explicit declaration conveys the purposeful nature of null, showing that the variable is meant to be empty or non-existent at execution time.
-
-In essence, `null` is a way to reset a variable, signalling that it should not reference any object.
+ 
+`null` is a primitive value that explicitly represents the absence of any value or object. It is typically used to indicate that a variable intentionally holds no value. `typeof null` returns `"object"`, which is a known quirk of the language from its original implementation.
 
 Visit the following resources to learn more:
 

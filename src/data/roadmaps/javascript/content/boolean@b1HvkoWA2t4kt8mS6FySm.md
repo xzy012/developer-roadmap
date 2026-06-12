@@ -1,8 +1,6 @@
 # boolean
-
-In JavaScript, a `boolean` is a simple data type that can hold one of two values: `true` or `false`. These values are used to represent logical states and are essential in controlling the flow of a program.
-
-Booleans are commonly used in conditional statements (`if`, `else`, `while`, etc.) to determine whether a block of code should execute.
+ 
+A boolean is a primitive type with only two possible values: `true` or `false`. Booleans are used in conditions, comparisons, and logical operations. JavaScript also has truthy and falsy values, where non-boolean values are implicitly converted to `true` or `false` in a boolean context.
 
 Visit the following resources to learn more:
 

@@ -1,6 +1,6 @@
 # Keyed Collections
-
-Keyed collections are data collections that are ordered by key not index. They are associative in nature. Map and set objects are keyed collections and are iterable in the order of insertion.
+ 
+Keyed collections are data structures that store values indexed by keys. In JavaScript, `Map` and `WeakMap` are keyed collections that allow any value, including objects and functions, to be used as a key. Unlike plain objects, Maps maintain insertion order and provide methods like `get()`, `set()`, and `has()`.
 
 Visit the following resources to learn more:
 

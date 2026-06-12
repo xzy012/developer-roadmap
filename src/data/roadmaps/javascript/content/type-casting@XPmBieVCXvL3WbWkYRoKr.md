@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@article@Type Conversions](https://javascript.info/type-conversions)
 - [@article@Type Casting in JavaScript](https://www.tutorialspoint.com/type-casting-in-javascript)
-- [@feed@Explore top posts about JavaScript](https://app.daily.dev/tags/javascript?ref=roadmapsh)

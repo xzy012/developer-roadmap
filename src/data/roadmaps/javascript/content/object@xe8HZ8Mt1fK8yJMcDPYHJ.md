@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@Objects](https://javascript.info/object)
 - [@article@Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+- [@article@Destructuring Objects](https://javascript.info/destructuring-assignment)

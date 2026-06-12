@@ -1,6 +1,6 @@
 # isStrictlyEqual
-
-[isStrictlyEqual](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality) checks whether its two operands are equal, returning a `Boolean` result. It always considers operands of different types to be different.
+ 
+The strict equality comparison is the algorithm behind the `===` operator. It returns `false` if the types differ, without any coercion. For the same type, it compares values directly, with the exception that `NaN === NaN` is `false`.
 
 Visit the following resources to learn more:
 

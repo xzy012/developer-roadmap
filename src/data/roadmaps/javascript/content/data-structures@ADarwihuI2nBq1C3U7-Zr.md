@@ -5,9 +5,5 @@ A Data structure is a format to organize, manage and store data in a way that al
 Visit the following resources to learn more:
 
 - [@video@Introduction to the Stack Data Structure](https://youtu.be/4F-BnR2XwqU)
-- [@video@Introduction to the Queue Data Structure](https://youtu.be/GRA_3Ppl2ZI)
 - [@video@Intro to Recursion: Anatomy of a Recursive Solution](https://youtu.be/yBWlPte6FhA)
-- [@video@Binary Tree Algorithms for Technical Interviews - Full Course](https://youtu.be/fAAZixBzIAI)
-- [@video@Graph Algorithms for Technical Interviews - Full Course](https://youtu.be/tWVWeAqZ0WU)
 - [@video@Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://youtu.be/oBt53YbR9Kk)
-- [@feed@Explore top posts about JavaScript](https://app.daily.dev/tags/javascript?ref=roadmapsh)

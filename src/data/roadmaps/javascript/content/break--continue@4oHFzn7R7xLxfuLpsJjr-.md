@@ -1,8 +1,6 @@
-# Break continue
-
-`break` statement, without a label reference, can only be used to jump out of a loop or a switch block.
-
-`continue` statement, with or without a label reference, can only be used to skip one loop iteration.
+# break / continue
+ 
+`break` exits a loop or switch statement immediately, skipping any remaining iterations. `continue` skips the rest of the current iteration and moves to the next one. Both can be used with labels to control nested loops.
 
 Visit the following resources to learn more:
 

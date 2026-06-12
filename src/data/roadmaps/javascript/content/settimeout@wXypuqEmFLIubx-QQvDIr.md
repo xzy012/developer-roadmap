@@ -1,6 +1,6 @@
 # setTimeout
-
-The setTimeout runs a function after the specified period expires. Times are declared in milliseconds.
+ 
+`setTimeout()` schedules a function to run after a specified delay in milliseconds. It is asynchronous: the rest of the code continues executing while the timer runs. It returns an ID that can be used with `clearTimeout()` to cancel the scheduled execution.
 
 Visit the following resources to learn more:
 

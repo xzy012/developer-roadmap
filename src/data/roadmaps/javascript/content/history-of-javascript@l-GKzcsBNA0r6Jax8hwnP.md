@@ -4,6 +4,5 @@ JavaScript was initially created by Brendan Eich of NetScape and was first annou
 
 Visit the following resources to learn more:
 
-- [@roadmap.sh@Brief History of JavaScript](https://roadmap.sh/guides/history-of-javascript)
+- [@article@Brief History of JavaScript](https://roadmap.sh/guides/history-of-javascript)
 - [@article@The Weird History of JavaScript](https://dev.to/codediodeio/the-weird-history-of-javascript-2bnb)
-- [@feed@Explore top posts about JavaScript](https://app.daily.dev/tags/javascript?ref=roadmapsh)

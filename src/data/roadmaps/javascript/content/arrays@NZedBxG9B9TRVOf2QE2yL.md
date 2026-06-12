@@ -1,6 +1,6 @@
 # Arrays
-
-Arrays are objects that store a collection of items and can be assigned to a variable. They have their methods that can perform operations on the array.
+ 
+Arrays are ordered, indexed collections that can hold values of any type. JavaScript arrays are dynamic, meaning they can grow and shrink, and provide a rich set of built-in methods like `map()`, `filter()`, `reduce()`, `push()`, and `pop()`. They are one of the most used data structures in JavaScript.
 
 Visit the following resources to learn more:
 

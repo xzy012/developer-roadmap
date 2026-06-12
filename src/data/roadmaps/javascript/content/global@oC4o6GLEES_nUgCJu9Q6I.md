@@ -1,11 +1,7 @@
-# Global Scope
-
-Variables declared Globally (outside any function) have Global Scope. Global variables can be accessed from anywhere in a JavaScript program. Variables declared with `var`, `let` and `const` are quite similar when declared outside a block.
-
-## Note
-
-If you assign a value to a variable  that has not been declared i.e `potato = true`
-it will automatically become a _GLOBAL_ variable.
+# Global
+ 
+Global scope refers to variables declared outside any function or block, making them accessible from anywhere in the program. In browsers, global variables become properties of the `window` object. Overusing global variables is discouraged because it increases the risk of naming conflicts and makes code harder to maintain.
 
 Visit the following resources to learn more:
 
+- [@article@Scope in JavaScript – Global vs Local vs Block Scope Explained](https://www.freecodecamp.org/news/scope-in-javascript-global-vs-local-vs-block-scope/)

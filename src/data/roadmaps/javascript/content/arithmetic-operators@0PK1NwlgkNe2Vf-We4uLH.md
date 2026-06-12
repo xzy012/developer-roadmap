@@ -1,17 +1,6 @@
-# Arithmetic operators
-
-The Arithmetic operators perform addition, subtraction, multiplication, division, exponentiation, and remainder operations.
-
-Arithmetic operators in JavaScript are as follows:
-
-- `+` (Addition)
-- `-` (Subtraction)
-- `*` (Multiplication)
-- `**` (Exponentiation)
-- `/` (Division)
-- `%` (Modulus i.e. Remainder)
-- `++` (Increment)
-- `--` (Decrement)
+# Arithmetic Operators
+ 
+Arithmetic operators perform mathematical operations on numbers. They include `+` (addition), `-` (subtraction), `*` (multiplication), `/` (division), `%` (remainder), and `**` (exponentiation). The `+` operator is also used for string concatenation, which can cause issues when operands are mixed types.
 
 Visit the following resources to learn more:
 

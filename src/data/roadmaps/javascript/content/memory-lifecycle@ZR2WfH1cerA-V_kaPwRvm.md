@@ -1,12 +1,6 @@
-# Memory lifecycle
-
-Regardless of the programming language, the memory life cycle is pretty much always the same:
-
-- Allocate the memory you need
-- Use the allocated memory (read, write)
-- Release the allocated memory when it is not needed anymore
-
-The second part is explicit in all languages. The first and last parts are explicit in low-level languages but are mostly implicit in high-level languages like JavaScript.
+# Memory Lifecycle
+ 
+The memory lifecycle has three stages: allocation (memory is reserved when a value is created), use (memory is read and written during execution), and release (memory is freed when it is no longer reachable). In JavaScript, allocation happens implicitly, and release is handled by the garbage collector.
 
 Visit the following resources to learn more:
 

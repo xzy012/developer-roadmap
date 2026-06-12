@@ -1,6 +1,6 @@
-# Block Scope
-
-This scope restricts the variable that is declared inside a specific block, from access by the outside of the block. The let & const keyword facilitates the variables to be block scoped. In order to access the variables of that specific block, we need to create an object for it. Variables declared with the var keyword, do not have block scope.
+# Block
+ 
+Block scope limits a variable's visibility to the block of code enclosed in curly braces `{}` where it is declared. Variables declared with `let` and `const` are block-scoped. A variable inside an `if` statement or `for` loop with block scope is not accessible outside that block.
 
 Visit the following resources to learn more:
 

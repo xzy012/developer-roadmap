@@ -1,20 +1,6 @@
-# IIFE
-
-Immediately-Invoked Function Expression is a function that is executed immediately after it is created.
-
-## Example
-
-```js
-// An Async IIFE
-( async() => {
-    
-    const x = 1;
-    const y = 9;
-
-    console.log(`Hello, The Answer is ${x+y}`);
-
-})();
-```
+# IIFEs
+ 
+An IIFE (Immediately Invoked Function Expression) is a function that is defined and called at the same time. It is written as `(function() { ... })()` or `(() => { ... })()`. IIFEs are used to create a private scope, avoiding polluting the global namespace, and were common before ES6 modules.
 
 Visit the following resources to learn more:
 

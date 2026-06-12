@@ -4,4 +4,4 @@ Methods are properties of an object which are functions. The value of this insid
 
 Visit the following resources to learn more:
 
-- [@article@`this` in methods](https://javascript.info/object-methods#this-in-methods)
+- [@article@this in methods](https://javascript.info/object-methods#this-in-methods)

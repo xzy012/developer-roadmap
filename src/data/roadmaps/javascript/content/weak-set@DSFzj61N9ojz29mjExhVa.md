@@ -1,6 +1,6 @@
-# WeakSet
-
-`WeakSet` objects are collections of objects. Just as with `Sets`, each object in a `WeakSet` may occur only once; all objects in a `WeakSet`'s collection are unique.
+# Weak Set
+ 
+A `WeakSet` is a collection of objects held with weak references. Unlike a regular Set, it only accepts objects (not primitives), and entries are automatically removed when the object is garbage collected. WeakSet is used when tracking object references without preventing them from being garbage collected.
 
 Visit the following resources to learn more:
 

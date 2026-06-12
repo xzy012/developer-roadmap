@@ -1,6 +1,6 @@
 # Logical Operators
-
-There are four logical operators in JavaScript: `||` (OR), `&&` (AND), `!` (NOT), `??` (Nullish Coalescing).
+ 
+Logical operators combine or invert boolean expressions. The main logical operators are `&&` (AND), `||` (OR), and `!` (NOT). In JavaScript, `&&` and `||` return one of their operands rather than a strict boolean, which makes them useful for short-circuit evaluation and default value patterns.
 
 Visit the following resources to learn more:
 

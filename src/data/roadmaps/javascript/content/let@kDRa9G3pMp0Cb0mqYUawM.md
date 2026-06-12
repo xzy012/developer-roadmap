@@ -1,6 +1,6 @@
-# [let] keyword
-
-The `let` declaration declares a block-scoped local variable, optionally initializing it to a value.
+# let
+ 
+`let` declares a block-scoped variable that can be reassigned after declaration. Unlike `var`, it is limited to the block, statement, or expression where it is defined. `let` is the standard choice when a variable's value needs to change over time.
 
 Visit the following resources to learn more:
 

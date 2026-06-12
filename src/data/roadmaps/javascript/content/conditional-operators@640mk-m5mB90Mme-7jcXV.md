@@ -1,12 +1,6 @@
-# Conditional operators
-
-Conditional operator also known as Ternary operator is the only JS operator that takes three operands.
-
-The operator can have one of two values based on a condition.
-
-Syntax:
-
-`condition ? val_for_true : val_for_false`
+# Conditional Operators
+ 
+The conditional (ternary) operator is the only JavaScript operator that takes three operands: `condition ? valueIfTrue : valueIfFalse`. It is a concise alternative to `if...else` for simple conditional assignments or expressions. Nesting ternary operators deeply is discouraged because it reduces readability.
 
 Visit the following resources to learn more:
 

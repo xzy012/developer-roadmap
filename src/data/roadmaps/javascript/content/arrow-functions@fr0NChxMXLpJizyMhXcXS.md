@@ -1,14 +1,6 @@
 # Arrow Functions
-
-Arrow Function is a new way of creating functions with the '=>' operator with a shorter syntax.
-
-## Example
-
-```js
-const sayHello = () => {
-    console.log(`Hello from Arrow Function !`);
-}
-```
+ 
+Arrow functions are a concise syntax for writing function expressions introduced in ES6. They use `=>` instead of the `function` keyword and do not have their own `this`, `arguments`, or `super` bindings. They are commonly used for callbacks and short expressions, but are not suitable as object methods or constructors.
 
 Visit the following resources to learn more:
 

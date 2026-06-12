@@ -1,8 +1,6 @@
 # bigint
-
-BigInt is a built-in JavaScript object that allows you to work with integers of arbitrary size.
-
-Unlike the Number type, which can accurately represent integers only within the range of ±2^53 , BigInt can handle integers far beyond this limit. This makes it particularly useful for applications requiring high precision with very large numbers, such as cryptography or scientific computations.
+ 
+`BigInt` is a primitive type for representing integers of arbitrary size, beyond the safe integer limit of the `number` type. A BigInt is created by appending `n` to an integer literal or using the `BigInt()` function. It is used when precise integer arithmetic is needed for very large numbers, such as in cryptography or financial calculations.
 
 Visit the following resources to learn more:
 

@@ -1,6 +1,6 @@
-# while statement
-
-The `while` statement creates a loop that executes a specified statement as long as the test condition evaluates to `true`. The condition is evaluated before executing the statement.
+# while
+ 
+The `while` loop executes a block of code as long as a specified condition is true. The condition is evaluated before each iteration, so if it is false from the start, the body never runs. It is used when the number of iterations is not known in advance.
 
 Visit the following resources to learn more:
 
