@@ -1,5 +1,5 @@
 # UPPER / LOWER / PROPER
- 
+
 `UPPER` converts text to all uppercase, `LOWER` to all lowercase, and `PROPER` capitalizes the first letter of each word. These functions are used to standardize text formatting in datasets, especially when combining data from multiple sources with inconsistent casing.
 
 Visit the following resources to learn more:

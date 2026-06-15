@@ -1,5 +1,5 @@
 # CONCAT
- 
+
 `CONCAT` joins two or more text strings into one. It is the modern replacement for the `&` operator and the older `CONCATENATE` function. `CONCAT` is used to combine name fields, build labels, and merge data from multiple columns.
 
 Visit the following resources to learn more:

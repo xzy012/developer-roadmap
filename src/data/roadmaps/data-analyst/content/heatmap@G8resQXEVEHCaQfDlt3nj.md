@@ -1,5 +1,5 @@
 # Heatmap
- 
+
 A heatmap uses color intensity to represent the magnitude of values in a matrix. It is commonly used to visualize correlation matrices, frequency tables, and geographic data. Heatmaps make it easy to spot patterns and relationships across two categorical dimensions.
 
 Visit the following resources to learn more:

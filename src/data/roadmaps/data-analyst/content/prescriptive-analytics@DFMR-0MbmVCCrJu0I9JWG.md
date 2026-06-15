@@ -1,5 +1,5 @@
 # Prescriptive Analytics
- 
+
 Prescriptive analytics recommends actions to achieve a desired outcome, answering "what should we do?" It builds on predictive analytics by combining forecasts with optimization and decision logic. Examples include recommendation engines, dynamic pricing systems, and supply chain optimization tools.
 
 Visit the following resources to learn more:

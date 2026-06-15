@@ -1,5 +1,5 @@
 # Data Cleanup
- 
+
 Data cleanup is the process of identifying and resolving quality issues in a dataset before analysis. Raw data from real-world sources almost always contains errors, missing values, duplicates, and inconsistencies. Thorough cleaning ensures that analysis results reflect reality rather than artifacts of data collection.
 
 Visit the following resources to learn more:

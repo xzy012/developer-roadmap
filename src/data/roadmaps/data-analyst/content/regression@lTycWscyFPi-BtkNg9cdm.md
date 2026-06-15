@@ -1,5 +1,5 @@
 # Regression
- 
+
 Regression models the relationship between a dependent variable and one or more independent variables. Simple linear regression fits a line to describe how one variable changes with another. Multiple regression extends this to several predictors. Regression is used for prediction, forecasting, and understanding which factors influence an outcome.
 
 Visit the following resources to learn more:

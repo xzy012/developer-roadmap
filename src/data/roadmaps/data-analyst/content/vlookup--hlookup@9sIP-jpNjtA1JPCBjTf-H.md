@@ -1,5 +1,5 @@
 # VLOOKUP / HLOOKUP
- 
+
 `VLOOKUP` searches for a value in the first column of a table and returns a value from a specified column in the same row. `HLOOKUP` does the same horizontally, searching across the first row. Both are used to merge data from different tables, though they have been largely replaced by `XLOOKUP` in modern Excel.
 
 Visit the following resources to learn more:

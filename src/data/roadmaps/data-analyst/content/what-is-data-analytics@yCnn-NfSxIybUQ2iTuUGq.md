@@ -1,5 +1,5 @@
 # What is Data Analytics
- 
+
 Data analytics is the process of collecting, cleaning, transforming, and analyzing data to discover useful information, identify patterns, and support decisions. It spans a wide range of activities from basic reporting to predictive modeling. The goal is to turn raw data into actionable insights.
 
 Visit the following resources to learn more:

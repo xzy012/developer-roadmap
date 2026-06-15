@@ -1,5 +1,5 @@
 # Funnel Charts
- 
+
 Funnel charts display values decreasing progressively across stages of a process, such as a sales pipeline or user conversion flow. Each stage is represented as a narrowing bar. They highlight where the largest drop-offs occur in a sequential process.
 
 Visit the following resources to learn more:

@@ -1,5 +1,5 @@
 # Machine Learning
- 
+
 Machine learning is a branch of artificial intelligence where systems learn patterns from data and make predictions or decisions without being explicitly programmed for each task. For data analysts, ML provides tools like classification, clustering, and regression models that automate pattern recognition at scale. Understanding the basics of ML extends what an analyst can do beyond traditional statistical methods.
 
 Visit the following resources to learn more:

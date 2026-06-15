@@ -1,5 +1,5 @@
 # Decision Trees
- 
+
 A decision tree is a supervised learning algorithm that splits data into branches based on feature values to reach a prediction. It is interpretable because the decision logic can be visualized and explained. Decision trees are the foundation for ensemble methods like Random Forests and Gradient Boosting.
 
 Visit the following resources to learn more:

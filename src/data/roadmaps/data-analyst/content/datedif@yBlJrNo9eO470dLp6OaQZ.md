@@ -1,5 +1,5 @@
 # DATEDIF
- 
+
 `DATEDIF` calculates the difference between two dates in days, months, or years. It is useful for computing ages, tenures, and durations. Despite being an undocumented legacy function, it remains widely used in practice for date arithmetic.
 
 Visit the following resources to learn more:

@@ -1,5 +1,5 @@
 # Pivot Tables
- 
+
 Pivot tables are one of Excel's most powerful features for summarizing and analyzing large datasets. They allow data to be grouped, filtered, and aggregated across multiple dimensions without writing formulas. Pivot tables are used to quickly explore data and build summary reports by dragging and dropping fields.
 
 Visit the following resources to learn more:

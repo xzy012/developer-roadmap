@@ -1,5 +1,5 @@
 # Mode
- 
+
 The mode is the value that appears most frequently in a dataset. It is the only measure of central tendency applicable to categorical data. A dataset can have no mode, one mode, or multiple modes (bimodal or multimodal).
 
 Visit the following resources to learn more:

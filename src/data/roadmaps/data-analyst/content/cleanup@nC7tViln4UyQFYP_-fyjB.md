@@ -1,5 +1,5 @@
 # Cleanup
- 
+
 Data cleanup (or data cleaning) is the process of identifying and correcting errors, inconsistencies, and missing values in a dataset. Common tasks include handling null values, removing duplicates, fixing formatting issues, and standardizing categories. Clean data is a prerequisite for accurate analysis.
 
 Visit the following resources to learn more:

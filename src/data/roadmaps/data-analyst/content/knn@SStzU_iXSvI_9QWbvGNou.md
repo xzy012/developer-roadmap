@@ -1,5 +1,5 @@
 # KNN
- 
+
 K-Nearest Neighbors (KNN) is a simple supervised learning algorithm that classifies a data point based on the majority class of its K nearest neighbors in the feature space. It requires no training phase but is slow at prediction time for large datasets. KNN is also used for regression by averaging the values of the nearest neighbors.
 
 Visit the following resources to learn more:

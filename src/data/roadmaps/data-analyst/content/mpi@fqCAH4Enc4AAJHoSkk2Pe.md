@@ -1,5 +1,5 @@
 # MPI
- 
+
 MPI (Message Passing Interface) is a standard for parallel programming across distributed memory systems. It allows processes on different machines to communicate and coordinate. MPI is used in high-performance computing (HPC) environments for scientific simulations and large-scale numerical computations.
 
 Visit the following resources to learn more:

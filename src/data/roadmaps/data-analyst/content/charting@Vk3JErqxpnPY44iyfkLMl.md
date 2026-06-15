@@ -1,5 +1,5 @@
 # Charting
- 
+
 Excel charts turn tabular data into visual representations like bar charts, line charts, pie charts, and scatter plots. Charts are created directly from selected data and can be formatted and embedded in reports and dashboards. Knowing which chart type suits different data and messages is an important analytical skill.
 
 Visit the following resources to learn more:

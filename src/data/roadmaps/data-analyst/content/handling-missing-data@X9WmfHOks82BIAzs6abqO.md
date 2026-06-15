@@ -1,5 +1,5 @@
 # Handling Missing Data
- 
+
 Missing data occurs when values are absent in a dataset, which can distort analysis if not handled carefully. Common strategies include removing rows with missing values, imputing with the mean, median, or a predicted value, and flagging missingness as its own category. The right approach depends on how much data is missing and why.
 
 Visit the following resources to learn more:
