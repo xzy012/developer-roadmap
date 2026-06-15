@@ -1,8 +1,7 @@
-# SANS Holiday Hack Challenge
+# pwn.college
 
-The SANS Holiday Hack Challenge is an annual cybersecurity event that offers participants the opportunity to solve a series of themed cybersecurity puzzles and challenges. Designed to engage both beginners and experienced professionals, the challenge covers a wide range of topics including network forensics, penetration testing, reverse engineering, and more. It provides a fun, gamified learning experience that encourages participants to enhance their skills while collaborating with the global cybersecurity community. The event often features real-world security scenarios, creative storytelling, and interactive, hands-on tasks.
+pwn.college is an educational platform designed to teach the fundamentals of computer security, specifically focusing on binary exploitation and low-level software vulnerabilities. It provides a structured curriculum that combines hands-on practice labs with interactive lectures, allowing users to actively exploit intentionally insecure programs in a safe, controlled environment. The platform is built to guide students from beginner concepts like basic memory corruption to advanced topics like kernel exploitation, emphasizing a "learning by doing" approach to mastering offensive security techniques.
 
 Visit the following resources to learn more:
 
-- [@official@SANS Holiday Hack](https://www.sans.org/mlp/holiday-hack-challenge-2023/)
-- [@video@Official SANS Holiday Hack Challenge Video](https://www.youtube.com/watch?v=zfhhLi8jZzI)
+- [@official@pwn.college](https://pwn.college/)
