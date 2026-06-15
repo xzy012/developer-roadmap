@@ -4,10 +4,10 @@ An observable is a function that acts as a wrapper for a data stream. They suppo
 
 There are 4 stages for a life cycle of an observable.
 
-- Creation
-- Subscription
-- Execution
-- Destruction
+*   Creation
+*   Subscription
+*   Execution
+*   Destruction
 
 Visit the following resources to learn more:
 

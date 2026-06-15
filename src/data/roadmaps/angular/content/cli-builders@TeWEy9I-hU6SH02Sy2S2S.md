@@ -5,5 +5,5 @@ A number of Angular CLI commands run a complex process on your code, such as bui
 Visit the following resources to learn more:
 
 - [@official@CLI Builders](https://angular.dev/tools/cli/cli-builder)
-- [@video@Angular Builders – Creating Custom Builder from Scratch](https://www.youtube.com/watch?v=QbDkDLnXAZE)
 - [@opensource@Angular Builders](https://github.com/just-jeb/angular-builders)
+- [@video@Angular Builders – Creating Custom Builder from Scratch](https://www.youtube.com/watch?v=QbDkDLnXAZE)

@@ -2,8 +2,8 @@
 
 Angular components can communicate with each other using `@Input()` and `@Output()` decorators. These decorators facilitate data exchange between parent and child components.
 
-- **@Input()**: This decorator allows a parent component to pass data to a child component, enabling the child to receive and use the data.
-- **@Output()**: This decorator allows a child component to emit events to a parent component, enabling the parent to respond to changes or actions within the child component.
+*   **@Input()**: This decorator allows a parent component to pass data to a child component, enabling the child to receive and use the data.
+*   **@Output()**: This decorator allows a child component to emit events to a parent component, enabling the parent to respond to changes or actions within the child component.
 
 Visit the following resources to learn more:
 

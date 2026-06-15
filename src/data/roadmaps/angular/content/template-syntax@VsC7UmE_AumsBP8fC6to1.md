@@ -1,6 +1,6 @@
 # Template Syntax
 
-In Angular, a *template* is a chunk of HTML. Use special syntax within a template to build on many of Angular's features. Extend the HTML vocabulary of your applications with special Angular syntax in your templates. For example, Angular helps you get and set DOM (Document Object Model) values dynamically with features such as built-in template functions, variables, event listening, and data binding.
+In Angular, a _template_ is a chunk of HTML. Use special syntax within a template to build on many of Angular's features. Extend the HTML vocabulary of your applications with special Angular syntax in your templates. For example, Angular helps you get and set DOM (Document Object Model) values dynamically with features such as built-in template functions, variables, event listening, and data binding.
 
 Visit the following resources to learn more:
 

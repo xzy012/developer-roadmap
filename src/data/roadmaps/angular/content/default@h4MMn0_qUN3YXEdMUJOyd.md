@@ -4,5 +4,5 @@ The `@default` clause is used to render a template when none of the `@case` bloc
 
 Visit the following resources to learn more:
 
-- [@official@\@switch](https://angular.dev/api/core/@switch#description)
+- [@official@@switch](https://angular.dev/api/core/@switch#description)
 - [@article@Angular @switch: Complete Guide](https://blog.angular-university.io/angular-switch/)

@@ -1,6 +1,6 @@
 # DevTools
 
-Angular DevTools is a browser extension that provides debugging and profiling capabilities for Angular applications.  You can view component trees and change detection cycles.
+Angular DevTools is a browser extension that provides debugging and profiling capabilities for Angular applications. You can view component trees and change detection cycles.
 
 Visit the following resources to learn more:
 

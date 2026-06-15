@@ -4,10 +4,10 @@ Angular lets you animate coordinated sequences, such as an entire grid or list o
 
 The functions that control complex animation sequences are:
 
-- `query()`: Finds one or more inner HTML elements.
-- `stagger()`: Applies a cascading delay to animations for multiple elements.
-- `group()`: Runs multiple animation steps in parallel.
-- `sequence()`: Runs animation steps one after another.
+*   `query()`: Finds one or more inner HTML elements.
+*   `stagger()`: Applies a cascading delay to animations for multiple elements.
+*   `group()`: Runs multiple animation steps in parallel.
+*   `sequence()`: Runs animation steps one after another.
 
 Visit the following resources to learn more:
 

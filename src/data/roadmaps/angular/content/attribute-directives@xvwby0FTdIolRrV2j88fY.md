@@ -4,9 +4,9 @@ Change the appearance or behavior of DOM elements and Angular components with at
 
 The most used attribute directives are:
 
-- ngClass
-- ngStyle
-- ngModel
+*   ngClass
+*   ngStyle
+*   ngModel
 
 Visit the following resources to learn more:
 

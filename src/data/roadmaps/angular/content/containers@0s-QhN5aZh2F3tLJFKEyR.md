@@ -1,6 +1,6 @@
 # Containers
 
-Some Angular Material UI components cannot take children, such as an input, so you need to use container elements to customize the UI component.  
+Some Angular Material UI components cannot take children, such as an input, so you need to use container elements to customize the UI component.
 
 Visit the following resources to learn more:
 

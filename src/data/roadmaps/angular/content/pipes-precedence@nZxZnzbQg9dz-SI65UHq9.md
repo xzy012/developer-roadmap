@@ -4,9 +4,7 @@ The pipe operator has a higher precedence than the JavaScript ternary operator.
 
 You should always use parentheses to be sure Angular evaluates the expression as you intend.
 
-```
-(condition ? a : b) | pipe
-```
+    (condition ? a : b) | pipe
 
 Visit the following resources to learn more:
 

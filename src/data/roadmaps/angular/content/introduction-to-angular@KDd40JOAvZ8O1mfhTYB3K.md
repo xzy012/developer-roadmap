@@ -2,7 +2,7 @@
 
 Angular is a popular open-source front-end web application framework developed by Google. It is written in TypeScript and allows developers to build dynamic, single-page web applications with ease. Angular provides a comprehensive set of features for creating interactive and responsive user interfaces, making it a powerful tool for modern web development.
 
-Learn more from the following resources:
+Visit the following resources to learn more:
 
 - [@official@Angular](https://angular.dev/)
 - [@official@Angular Documentation](https://angular.dev/overview)

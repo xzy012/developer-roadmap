@@ -1,6 +1,6 @@
 # Cross-site Script Inclusion
 
-Cross-site script inclusion, also known as JSON vulnerability, can allow an attacker's website to read data from a JSON API. The attack works on older browsers by overriding built-in JavaScript object constructors, and then including an API URL using a `<script>` tag. Angular's HttpClient library recognizes this convention and automatically strips the string ")]}',\n" from all responses before further parsing.
+Cross-site script inclusion, also known as JSON vulnerability, can allow an attacker's website to read data from a JSON API. The attack works on older browsers by overriding built-in JavaScript object constructors, and then including an API URL using a `<script>` tag. Angular's HttpClient library recognizes this convention and automatically strips the string ")\]}',\\n" from all responses before further parsing.
 
 Visit the following resources to learn more:
 

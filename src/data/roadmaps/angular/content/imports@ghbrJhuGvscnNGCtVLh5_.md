@@ -1,7 +1,6 @@
 # Imports
 
-The `imports` property specifies the `standalone` component's template dependencies — those directives, components, and
-pipes that can be used within its template.
+The `imports` property specifies the `standalone` component's template dependencies — those directives, components, and pipes that can be used within its template.
 
 Visit the following resources to learn more:
 

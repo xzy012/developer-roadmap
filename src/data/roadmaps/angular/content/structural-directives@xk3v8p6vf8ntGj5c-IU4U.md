@@ -4,9 +4,9 @@ Structural directives are directives applied to an `<ng-template>` element that 
 
 In Angular, there are three standard structural directives:
 
-- `*ngIf` – conditionally includes a template depending on the value of an expression returned by a Boolean.
-- `*ngFor` – makes it simple to iterate over an array.
-- `*ngSwitch` – renders each matching view.
+*   `*ngIf` – conditionally includes a template depending on the value of an expression returned by a Boolean.
+*   `*ngFor` – makes it simple to iterate over an array.
+*   `*ngSwitch` – renders each matching view.
 
 Visit the following resources to learn more:
 
