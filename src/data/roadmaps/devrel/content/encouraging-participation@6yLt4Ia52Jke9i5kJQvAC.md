@@ -1,8 +1,8 @@
 # Encouraging Participation
+ 
+Encouraging participation means reducing the barriers and increasing the motivations for members to contribute. Tactics include welcoming new members publicly, asking direct questions to quiet members, creating low-effort entry points like polls or reactions, and making it easy to find ways to help. Communities that actively encourage participation grow faster and retain members longer.
 
-Encouraging participation involves creating an environment where members feel welcomed, valued, and motivated to engage. This can be achieved by initiating discussions, asking open-ended questions, and hosting events like webinars, AMAs (Ask Me Anything), or contests that encourage sharing and collaboration. Recognizing and rewarding contributions, whether through badges, shout-outs, or exclusive content, helps foster a sense of belonging and appreciation. It’s also important to actively respond to posts, provide guidance, and make sure the community feels heard. By building a supportive, interactive space, community managers can drive more meaningful participation and strengthen overall engagement.
-
-Learn more from the following resources:
+Visit the following resources to learn more:
 
 - [@article@12 tips to encourage activity in an online community](https://www.yunits.com/en/blogs/12-tips-to-encourage-activity-in-an-online-community/)
 - [@article@How To Increase Community Engagement](https://www.aluminati.net/how-to-increase-community-engagement/)

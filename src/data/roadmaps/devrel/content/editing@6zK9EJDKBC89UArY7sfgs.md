@@ -1,8 +1,8 @@
 # Editing
+ 
+Editing transforms raw footage into a polished, watchable video by removing mistakes, dead air, and tangents. It also involves adding titles, captions, transitions, and annotations to guide the viewer. Even modest editing significantly improves the watchability of technical content and demonstrates respect for the audience's time.
 
-Editing is the process of refining raw footage to create a cohesive, engaging final product. It involves cutting, arranging, and enhancing clips to ensure a smooth flow, clear storytelling, and visual appeal. Effective editing also includes adding elements like transitions, graphics, sound effects, and music to emphasize key points and maintain viewer interest. In developer-focused content, such as tutorials or product demos, editing helps simplify complex information, highlighting important details and ensuring clarity. Good editing not only enhances the viewing experience but also helps convey the intended message more effectively and professionally.
-
-Learn more from the following resources:
+Visit the following resources to learn more:
 
 - [@article@Introduction to video editing](https://www.adobe.com/uk/creativecloud/video/discover/edit-a-video.html)
 - [@article@A complete guide on how to edit videos fast even if you are a beginner](https://www.laura-moore.co.uk/a-complete-guide-on-how-to-edit-videos-fast-even-if-you-are-a-beginner/)
