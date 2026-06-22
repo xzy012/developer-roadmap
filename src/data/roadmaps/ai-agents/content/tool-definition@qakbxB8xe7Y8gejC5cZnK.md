@@ -4,5 +4,5 @@ A tool is any skill or function that an AI agent can call to get a job done. It 
 
 Visit the following resources to learn more:
 
-- [@article@Understanding the Agent Function in AI: Key Roles and Responsibilities](https://pingax.com/ai/agent/function/understanding-the-agent-function-in-ai-key-roles-and-responsibilities/)
-- [@article@What is an AI Tool?](https://www.synthesia.io/glossary/ai-tool)
+- [@article@What are Tools?](https://huggingface.co/learn/agents-course/en/unit1/tools)
+- [@article@Understanding the Agent Function in AI: Key Roles and Responsibilities](https://genezio.com/blog/ai-agents-101-understanding-their-role-and-functionality/)
