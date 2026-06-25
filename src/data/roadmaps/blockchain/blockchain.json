@@ -1764,7 +1764,7 @@
       },
       "selected": false,
       "data": {
-        "label": "Binance Smart Chain",
+        "label": "BNB Chain",
         "style": {
           "fontSize": 17,
           "justifyContent": "flex-start",
@@ -2264,7 +2264,7 @@
       },
       "selected": false,
       "data": {
-        "label": "Arbitrum",
+        "label": "Base",
         "style": {
           "fontSize": 17,
           "justifyContent": "flex-start",
@@ -2307,7 +2307,7 @@
       },
       "selected": false,
       "data": {
-        "label": "Moonbeam / Moonriver",
+        "label": "Starknet",
         "style": {
           "fontSize": 17,
           "justifyContent": "flex-start",

@@ -5,5 +5,5 @@ Blockchain technology, particularly certain types like those using Proof-of-Work
 Visit the following resources to learn more:
 
 - [@article@What's the Environmental Impact of Cryptocurrency?](https://www.investopedia.com/tech/whats-environmental-impact-cryptocurrency/)
-- [@article@Blockchain and the environment](https://www.eea.europa.eu/publications/blockchain-and-the-environment/file)
+- [@article@Blockchain and the environment](https://www.eea.europa.eu/en/analysis/publications/blockchain-and-the-environment/)
 - [@article@Evaluating the environmental effects of bitcoin mining on energy and water use in the context of energy transition](https://www.nature.com/articles/s41598-025-92314-z)
