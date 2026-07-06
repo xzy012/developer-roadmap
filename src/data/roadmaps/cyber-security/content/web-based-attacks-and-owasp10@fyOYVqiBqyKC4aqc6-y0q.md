@@ -5,4 +5,5 @@ The OWASP Top 10 is a regularly updated list that highlights the most critical s
 Visit the following resources to learn more:
 
 - [@official@OWASP Top Ten](https://owasp.org/www-project-top-ten/)
+- [@official@OWASP Vulnerable Web Applications Directory (VWAD)](https://vwad.owasp.org/)
 - [@video@OWASP Top Ten](https://youtube.com/playlist?list=PLyqga7AXMtPOguwtCCXGZUKvd2CDCmUgQ&si=ZYRbcDSRvqTOnDOo)
